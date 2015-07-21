@@ -1,5 +1,13 @@
 # Jon Pipitone
 
+## Education
+
+## Work
+
+## Skills
+
+## Projects
+
 ## Publications
 
 ### Journal Articles
