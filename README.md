@@ -228,5 +228,23 @@
 - Pipitone, J., Aranda, J., and Cortés, V. Aim for the eagle: Making the best
   use of our software research skills to fight climate change.
 
+## Courses
+
+- Topics in computer science (CSC2600), Winter 2011 
+- Building community resilience (CHL7001), Fall 2010
+- Topics in software engineering (CSC2125), Winter 2007
+- Natural language computing (CSC2511), Winter 2007
+- Algorithms in Graph Theory (CSC2410), Fall 2007
+- Computational structural biology (CSC2418), Fall 2007
+- Introduction to machine learning (CSC2515), Fall 2007
+
+### Audited
+
+- Cognitive Neuroscience (PSY493H1), Fall 2011
+- Physiology and Psychology of Emotion (PSY494), Fall 2011
+- Buddhism and the Science of Mindfulness Meditation (NEW331), Summer 2011
+- Buddhism and Cognitive Science (NEW333), Summer 2011
+- Environmental Psychology (PSY435), Fall 2010
+
 > Last updated: Fri Aug 21 06:22:11 EDT 2015
 
