@@ -7,17 +7,15 @@ Centre for Addiction and Mental Health
 250 College St. Toronto, ON  M5T 1R8
 
 ## Education
-- **PhD. Computer Science (2010-2012), University of Toronto**  
-    Withdrawn. 
-
 - **MSc. Computer Science (2007-2010), University of Toronto**  
     Thesis: "On software quality in climate modelling"
 
 - **Hon BSc. Computer Science (2000-2004), University of Toronto**
 
 ## Skills
-- **Neuroimaging**: FSL, MINC tools, Slicer, ANTS, FreeSurfer, UKFTractography,
-  R, image segmentation, machine learning, high performance computing
+- **Science**: Image processing, Diffusion tensor modelling, Machine learning,
+  Artificial neural network models, High performance computing, Biomarker
+  development, Qualitative research methods, Software quality analysis. 
 
 - **Systems**: Linux administration (Debian, Centos), Windows, Virtualization
   (ESXi, KVM, Docker, KVM), Provisioning (Ansible, Salt), Filesystems (ZFS,
@@ -27,6 +25,10 @@ Centre for Addiction and Mental Health
   Perl, Visual Basic, Eclipse, XML, SVG, XSLT, Git, SVN, MySQL, SQLite, LaTeX,
   Jekyll
 
+<!--
+- **Neuroimaging: FSL, MINC tools, Slicer, ANTS, FreeSurfer, UKFTractography
+-->
+  
 ## Work
 - **Research Methods Specialist**, 2012-Present  
   *Kimel Lab, Centre for Addiction and Mental Health, Toronto*
@@ -150,15 +152,15 @@ Centre for Addiction and Mental Health
 
 - Park, M. T., **Pipitone, J.**, Baer, L. H., Winterburn, J. L., Shah, Y.,
   Chavez, S., Schira, M. M., Lobaugh, N. J., Lerch, J. P., Voineskos, A. N.,
-  and Others (2014). Derivation of high-resolution MRI atlases of the human
-  cerebellum at 3T and segmentation using multiple automatically generated
-  templates. Neuroimage, 95:217–231.
+  and Chakravarty, M. M. (2014). Derivation of high-resolution MRI atlases of
+  the human cerebellum at 3T and segmentation using multiple automatically
+  generated templates. Neuroimage, 95:217–231.
 
 - **Pipitone, J.**, Park, M. T., Winterburn, J., Lett, T. A., Lerch, J. P.,
   Pruessner, J. C., Lepage, M., Voineskos, A. N., Chakravarty, M. M.,
-  Initiative, A. D., and Others (2014). Multi-atlas segmentation of the whole
-  hippocampus and subfields using multiple automatically generated templates.
-  Neuroimage, 101:494–512.
+  Alzheimer's Disease Neuroimaging Initiative (2014). Multi-atlas segmentation
+  of the whole hippocampus and subfields using multiple automatically generated
+  templates.  Neuroimage, 101:494–512.
 
 - Raznahan, A., Shaw, P. W., Lerch, J. P., Clasen, L. S., Greenstein, D.,
   Berman, R., **Pipitone, J.**, Chakravarty, M. M., and Giedd, J. N. (2014).
@@ -167,9 +169,10 @@ Centre for Addiction and Mental Health
   111(4):1592–1597.
 
 - Riggs, L., Bouffet, E., Chakravarty, M., Laughlin, S., Laperriere, N., Liu,
-  F., Skocic, J., **Pipitone, J.**, Strother, D., Hukin, J., and Others (2014).
-  Hippocampal volumes decrease over time in children treated for
-  medulloblastoma. In NEURO-ONCOLOGY, volume 16, page 103.
+  F., Skocic, J., **Pipitone, J.**, Strother, D., Hukin, J., Fryer, C.,
+  McConnell, D.,  and Mabbott, D. (2014).  Hippocampal volumes decrease over
+  time in children treated for medulloblastoma. Neuro-Oncology, volume 16,
+  page 103.
 
 - Wong, A. P., **Pipitone, J.**, Park, M. T., Dickie, E. W., Leonard, G.,
   Perron, M., Pike, B. G., Richer, L., Veillette, S., Chakravarty, M. M., and
@@ -196,13 +199,13 @@ Centre for Addiction and Mental Health
 - Felsky, D., Lerch, J., Chakravarty, M. M., **Pipitone, J.**, Rajji, T. K.,
   Lobaugh, N. J., Mulsant, B. H., Pollock, B. G., Kennedy, J. L., and
   Voineskos, A. N. (2012). SORL1 and white matter tract integrity: Predicting
-  risk for Late-Onset alzheimer’s disease. In BIOLOGICAL PSYCHIATRY, volume 71,
+  risk for Late-Onset alzheimer’s disease. Biological Psychiatry, volume 71,
   page 150S.
 
 - Lett, T. A., Chakravarty, M. M., Lerch, J. P., Felsky, D., **Pipitone, J.**,
   Daskalakis, J., Mulsant, B. H., Kennedy, J. L., and Voineskos, A. N.  (2012).
   The schizophrenia risk gene GAD1 (GAD67) promoter variants and Fronto-Limbic
-  system disconnectivity. In BIOLOGICAL PSYCHIATRY, volume 71, page 153S. 
+  system disconnectivity. Biological Psychiatry, volume 71, page 153S. 
 
 - **Pipitone, J.** and Easterbrook, S. (2012). Assessing climate model software
   quality: a defect density analysis of three models. Geoscientific Model
@@ -234,14 +237,12 @@ Centre for Addiction and Mental Health
 - Algorithms in Graph Theory (CSC2410), Fall 2007
 - Computational structural biology (CSC2418), Fall 2007
 - Introduction to machine learning (CSC2515), Fall 2007
-
-### Audited
-
-- Cognitive Neuroscience (PSY493H1), Fall 2011
-- Physiology and Psychology of Emotion (PSY494), Fall 2011
-- Buddhism and the Science of Mindfulness Meditation (NEW331), Summer 2011
-- Buddhism and Cognitive Science (NEW333), Summer 2011
-- Environmental Psychology (PSY435), Fall 2010
+- Cognitive Neuroscience (PSY493H1), Fall 2011. Audited
+- Physiology and Psychology of Emotion (PSY494), Fall 2011. Audited.
+- Buddhism and the Science of Mindfulness Meditation (NEW331), Summer 2011.
+  Audited.
+- Buddhism and Cognitive Science (NEW333), Summer 2011. Audited.
+- Environmental Psychology (PSY435), Fall 2010, Audited. 
 
 ---
 
