@@ -1,10 +1,46 @@
 # Jon Pipitone
++1-647-639-1919  
+jon@pipitone.ca  
+http://github.com/pipitone  
+Centre for Addiction and Mental Health  
+250 College St. Toronto, ON  M5T 1R8
 
 ## Education
+- **PhD. Computer Science (2010-2012), University of Toronto**  
+  Withdrawn. 
 
-## Work
+- **MSc. Computer Science (2007-2010), University of Toronto**  
+  Thesis: "On software quality in climate modelling"
+
+- **Hon BSc. Computer Science (2000-2004), University of Toronto**
 
 ## Skills
+- **Neuroimaging**: FSL, MINC tools, Slicer, ANTS, FreeSurfer, UKFTractography,
+  R, image segmentation, machine learning, high performance computing
+
+- **Systems**: Linux administration (Debian, Centos), Windows, Virtualization
+  (ESXi, KVM, Docker, KVM), Provisioning (Ansible, Salt), Filesystems (ZFS,
+  ext, NFS), Clustering (SGE, PBS)
+
+- **Programming**: Python, R, Java, Shell, Javascript, HTML/CSS, C/C++, Perl,
+  Visual Basic, XML, SVG, XSLT, Git, SVN, MySQL, SQLite, LaTeX, Jekyll
+
+## Work
+- **Research Methods Specialist**, 2012-Present  
+ *Kimel Lab, Centre for Addiction and Mental Health, Toronto*
+
+- **Practium Student**, 2011-2012   
+  *Kimel Lab, Centre for Addiction and Mental Health, Toronto*
+
+- **Course Developer**, 2012  *Mozilla, Toronto* 
+
+- **Software Developer**, 2005-2007 *The Jonah Group, Toronto*
+
+- **Software Developer**, 2004-2005 *Fidalia Networks, Mississauga*
+
+- **Software Developer**, 2003-2004 *The Blueprint Initiative, Toronto*
+  
+## Teaching
 
 ## Projects
 
