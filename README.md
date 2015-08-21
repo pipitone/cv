@@ -1,17 +1,17 @@
 # Jon Pipitone
 
-> +1-647-639-1919  
-> jon@pipitone.ca  
-> http://github.com/pipitone  
-> Centre for Addiction and Mental Health  
-> 250 College St. Toronto, ON  M5T 1R8
++1-647-639-1919  
+jon@pipitone.ca  
+http://github.com/pipitone  
+Centre for Addiction and Mental Health  
+250 College St. Toronto, ON  M5T 1R8
 
 ## Education
 - **PhD. Computer Science (2010-2012), University of Toronto**  
-  Withdrawn. 
+    Withdrawn. 
 
 - **MSc. Computer Science (2007-2010), University of Toronto**  
-  Thesis: "On software quality in climate modelling"
+    Thesis: "On software quality in climate modelling"
 
 - **Hon BSc. Computer Science (2000-2004), University of Toronto**
 
@@ -31,73 +31,73 @@
 - **Research Methods Specialist**, 2012-Present  
   *Kimel Lab, Centre for Addiction and Mental Health, Toronto*
 
-  Research in automated MR image segmentation of the hippocampus, machine
-  learning approaches to understanding hippocampus shape changes in Alzheimer's
-  disease, classification of deficit/non-deficit schizophrenia from DTI white
-  matter measures, white matter tractography. Collaborate with members of the
-  lab and other CAMH researchers on analysis approaches and implementation.
-  Ran formal and informal workshops and teachings for lab and CAMH researchers.
-  Study data curation and automated preprocessing and quality control.
-  Workstation and cluster administration. 
+    Research in automated MR image segmentation of the hippocampus, machine
+    learning approaches to understanding hippocampus shape changes in
+    Alzheimer's disease, classification of deficit/non-deficit schizophrenia
+    from DTI white matter measures, white matter tractography. Collaborate with
+    members of the lab and other CAMH researchers on analysis approaches and
+    implementation.  Ran formal and informal workshops and teachings for lab
+    and CAMH researchers.  Study data curation and automated preprocessing and
+    quality control.  Workstation and cluster administration. 
 
 - **Research Intern**, 2011-2012   
   *Kimel Lab, Centre for Addiction and Mental Health, Toronto*
 
-  Supervised by Dr. Mallar Chakravarty in the Translational Imaging-Genetics
-  Research lab. Primary research on automated MR image segmentation techniques
-  for the hippocampus and subfields.  Other activites include assisting with
-  the management of desktop and servers, compute cluster, data backup, software
-  quarantine.
+    Supervised by Dr. Mallar Chakravarty in the Translational Imaging-Genetics
+    Research lab. Primary research on automated MR image segmentation
+    techniques for the hippocampus and subfields.  Other activites include
+    assisting with the management of desktop and servers, compute cluster, data
+    backup, software quarantine.
   
 - **Course Developer**, 2012  
   *Mozilla, Toronto* 
 
-  Developed course materials for the Python lessons of the Software Carpentry
-  project (http://software-carpentry.org), as well as developed website and
-  server infrastructure.  
+    Developed course materials for the Python lessons of the Software Carpentry
+    project (http://software-carpentry.org), as well as developed website and
+    server infrastructure.  
 
 - **Software Developer**, 2005-2007  
   *The Jonah Group, Toronto*
 
-  Worked as part of a team to develop a datawarehouse to allow efficient claims
-  reporting by Blue Cross of Michigan. Activities included designing
-  Extract-Transform-Load SQL jobs to perform daily updates to the
-  datawarehouse, database tuning and query optimization, as well as building a
-  JUnit-based database testing framework.
+    Worked as part of a team to develop a datawarehouse to allow efficient
+    claims reporting by Blue Cross of Michigan. Activities included designing
+    Extract-Transform-Load SQL jobs to perform daily updates to the
+    datawarehouse, database tuning and query optimization, as well as building
+    a JUnit-based database testing framework.
 
 - **Software Developer**, 2004-2005  
   *Fidalia Networks, Mississauga*
 
-  Designed, developed and tested SimplyAssist, a zero-configuration remote
-  assistance suite using REALBasic, C++, XML, and Python. Other responsibilies
-  included managing company routing and networking systems, and wireless
-  broadband radio links to remote sites.
+    Designed, developed and tested SimplyAssist, a zero-configuration remote
+    assistance suite using REALBasic, C++, XML, and Python. Other
+    responsibilies included managing company routing and networking systems,
+    and wireless broadband radio links to remote sites.
 
 - **Software Developer**, 2003-2004  
   *The Blueprint Initiative, Toronto*
  
-  Developed a web application for curating and investigating biomolecular
-  interactions derived from automated literature search and manual curation.
-  Implemented a text-index of structured data using Lucine, an interactive HTML
-  display of database records using an XSL pipeline, and unit tests using
-  JUnit.
+    Developed a web application for curating and investigating biomolecular
+    interactions derived from automated literature search and manual curation.
+    Implemented a text-index of structured data using Lucine, an interactive
+    HTML display of database records using an XSL pipeline, and unit tests
+    using JUnit.
 
 - **NSERC Summer Internship**, 2002 
   *University of Victoria, Computer Science Deptartment, BC*
 
-  Supervised by Dr. Hausi Müller in the ACRE (Adoption-Centric Reverse research
-  group). Developed and tested the feasibility of using, an auto-generated
-  interactive graph (node/edge) editor for software artifact diagrams using
-  SVG, Javascript, and Perl.
+    Supervised by Dr. Hausi Müller in the ACRE (Adoption-Centric Reverse
+    research group). Developed and tested the feasibility of using, an
+    auto-generated interactive graph (node/edge) editor for software artifact
+    diagrams using SVG, Javascript, and Perl.
 
 ## Teaching
 - **Scientific Computing Fundamentals for CAMH Researchers workshop series**,
-  August 2015, CAMH. Lead.
-  http://pipitone.github.io/camh-computing-skills-august-2015
+    August 2015, CAMH. Lead.
+    http://pipitone.github.io/camh-computing-skills-august-2015
 
 - **Scientific Computing Fundamentals for CAMH Researchers workshop series**,
-  March 2015, CAMH. Lead.  
-  http://pipitone.github.io/computing-skills/ 
+    March 2015, CAMH. Lead.  
+    http://pipitone.github.io/computing-skills/ 
 
 - **Climate Change: Software, Science, and Society (PMU199)**. 01/2011-05/2011,
   *Teaching Assistant*
@@ -246,5 +246,9 @@
 - Buddhism and Cognitive Science (NEW333), Summer 2011
 - Environmental Psychology (PSY435), Fall 2010
 
-> Last updated: Fri Aug 21 06:22:11 EDT 2015
+---
 
+> Available at: http://github.com/pipitone/cv  
+> Last updated: Fri Aug 21 2015.  
+
+<!-- vim: set ts=4 sw=4 -->
