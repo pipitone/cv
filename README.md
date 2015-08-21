@@ -129,14 +129,15 @@ Centre for Addiction and Mental Health
 
 - **Software Carpentry**, Computing skills for scientists. 2007-Present.
   Admin/instruction
-- **Volleyball social @ CAMH**, Weekly client-staff volleyball. 2012-Present. 
+- **CAMH Schizophrenia Volleyball Program**, Weekly client-staff volleyball.
+  2012-Present. Coordinator and supervisor.  
 - **Hot Yam!**, Campus kitchen, 2007-2011. Coordinator
 - **Toronto Sustainable Food Co-operative**, Campus kitchen. 2011. Founder. 
 - **Canadian Civil Liberties Association**, G20 Observer, 2010. 
 
 ## Publications
 
-### Journal Articles
+### Peer-Reviewed Publications 
 - Voineskos AN, Winterburn JL, Felsky D, **Pipitone J**, Rajji TK, Mulsant BH,
   Chakravarty MM. Hippocampal (subfield) volume and shape in relation to
   cognitive  performance across the adult lifespan. Hum Brain Mapp. 2015
@@ -168,15 +169,9 @@ Centre for Addiction and Mental Health
   development. Proceedings of the National Academy of Sciences,
   111(4):1592–1597.
 
-- Riggs, L., Bouffet, E., Chakravarty, M., Laughlin, S., Laperriere, N., Liu,
-  F., Skocic, J., **Pipitone, J.**, Strother, D., Hukin, J., Fryer, C.,
-  McConnell, D.,  and Mabbott, D. (2014).  Hippocampal volumes decrease over
-  time in children treated for medulloblastoma. Neuro-Oncology, volume 16,
-  page 103.
-
 - Wong, A. P., **Pipitone, J.**, Park, M. T., Dickie, E. W., Leonard, G.,
   Perron, M., Pike, B. G., Richer, L., Veillette, S., Chakravarty, M. M., and
-  Others (2014b). Estimating volumes of the pituitary gland from t1-weighted
+  Others (2014). Estimating volumes of the pituitary gland from t1-weighted
   magnetic-resonance images: Effects of age, puberty, testosterone, and
   estradiol. Neuroimage, 94:216–221.
   
@@ -185,42 +180,44 @@ Centre for Addiction and Mental Health
   Disrupted prefrontal interhemispheric structural coupling in schizophrenia
   related to working memory performance. Schizophrenia bulletin.
 
-- Felsky, D., Szeszko, P., Yu, L., Honer, W. G., De Jager, P., Schneider, J.,
-  Malhotra, A., Ikuta, T., **Pipitone, J.**, Chakravarty, M., and Others
-  (2013a). Effects of the SORL1 alzheimer’s disease risk gene across the human
-  lifespan. Alzheimer’s & Dementia: The Journal of the Alzheimer’s Association,
-  4(9).
+- Felsky, D., Szeszko, P., Yu, L., Honer, W. G., De Jager, P. L., Schneider, J.
+  A., Malhotra, A. K., Lencz, T., Ikuta, T., **Pipitone, J.**, Chakravarty, M.
+  M., Lobaugh, N. J., Mulsant, B. H., Pollock, B.G., Kennedy, J. L., Bennett,
+  B. A., and Voineskos, A. N. (2013). The SORL1 gene and convergent neural
+  risk for alzheimer’s disease across the human lifespan. Molecular psychiatry.
+
+- **Pipitone, J.** and Easterbrook, S. (2012). Assessing climate model software
+  quality: a defect density analysis of three models. Geoscientific Model
+  Development, 5(4):1009–1022.
+
+### Published Abstracts / Posters 
+- Riggs, L., Bouffet, E., Chakravarty, M., Laughlin, S., Laperriere, N., Liu,
+  F., Skocic, J., **Pipitone, J.**, Strother, D., Hukin, J., Fryer, C.,
+  McConnell, D.,  and Mabbott, D. (2014).  Hippocampal volumes decrease over
+  time in children treated for medulloblastoma. Neuro-Oncology, volume 16,
+  page 103.
 
 - Felsky, D., Szeszko, P., Yu, L., Honer, W. G., De Jager, P. L., Schneider, J.
-  A., Malhotra, A. K., Lencz, T., Ikuta, T., **Pipitone, J.**, and Others
-  (2013b). The SORL1 gene and convergent neural risk for alzheimer’s disease
-  across the human lifespan. Molecular psychiatry.
-
-- Felsky, D., Lerch, J., Chakravarty, M. M., **Pipitone, J.**, Rajji, T. K.,
-  Lobaugh, N. J., Mulsant, B. H., Pollock, B. G., Kennedy, J. L., and
-  Voineskos, A. N. (2012). SORL1 and white matter tract integrity: Predicting
-  risk for Late-Onset alzheimer’s disease. Biological Psychiatry, volume 71,
-  page 150S.
+  A., Malhotra, A. K., Lencz, T., Ikuta, T., **Pipitone, J.**, Chakravarty, M.
+  M., Lobaugh, N. J., Mulsant, B. H., Pollock, B.G., Kennedy, J. L., Bennett,
+  B. A., and Voineskos, A. N.  (2013). Effects of the SORL1 alzheimer’s disease
+  risk gene across the human lifespan. Alzheimer’s & Dementia: The Journal of
+  the Alzheimer’s Association, 4(9).
 
 - Lett, T. A., Chakravarty, M. M., Lerch, J. P., Felsky, D., **Pipitone, J.**,
   Daskalakis, J., Mulsant, B. H., Kennedy, J. L., and Voineskos, A. N.  (2012).
   The schizophrenia risk gene GAD1 (GAD67) promoter variants and Fronto-Limbic
   system disconnectivity. Biological Psychiatry, volume 71, page 153S. 
 
-- **Pipitone, J.** and Easterbrook, S. (2012). Assessing climate model software
-  quality: a defect density analysis of three models. Geoscientific Model
-  Development, 5(4):1009–1022.
+- **Pipitone, J.**, Lett, T. A. P., Roostaei, T., Lerch, J. P., Mulsant, B. H.,
+  Kennedy, J. L., Chakravarty, M. M., and Voineskos, A. N. (2012). The
+  link between neurexin-1 and local cortical folding and surface area.
+  Biological Psychiatry, volume 71, page 252S. 
 
 - Easterbrook, S., Glenn, M., Aranda, J., and **Pipitone, J.** (2009). Software
   research and climate change. In Proceedings of the 2009 Conference of the
   Center for Advanced Studies on Collaborative Research, pages 362–363. IBM
   Corp.
-
-### Conference Posters and Abstracts
-- **Pipitone, J.**, Lett, T. A. P., Roostaei, T., Lerch, J. P., Mulsant, B. H.,
-  Kennedy, J. L., Chakravarty, M. M., and Voineskos, A. N. (2012). The
-  link between neurexin-1 and local cortical folding and surface area. In
-  BIOLOGICAL PSYCHIATRY, volume 71, page 252S. 
 
 - **Pipitone, J.** and Easterbrook, S. (2009). On the software quality of
   climate models. AGU Fall Meeting Abstracts, 1:0759.
