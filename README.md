@@ -138,6 +138,12 @@ Centre for Addiction and Mental Health
 ## Publications
 
 ### Peer-Reviewed Publications 
+- Guo, T., Winterburn, J. L., **Pipitone, J.**, Duerden, E.G.,  Park, M.M.,
+  Chau, V., Poskitt, K. J, Grunau, R. E., Synnes, A., Miller, S. P.,
+  Chakravarty, M. M., Automatic segmentation of the hippocampus for preterm
+  neonates from early-in-life to term-equivalent age, NeuroImage: Clinical,
+  ISSN 2213-1582. http://dx.doi.org/10.1016/j.nicl.2015.07.019.
+
 - Voineskos AN, Winterburn JL, Felsky D, **Pipitone J**, Rajji TK, Mulsant BH,
   Chakravarty MM. Hippocampal (subfield) volume and shape in relation to
   cognitive  performance across the adult lifespan. Hum Brain Mapp. 2015
@@ -244,6 +250,6 @@ Centre for Addiction and Mental Health
 ---
 
 > Available at: http://github.com/pipitone/cv  
-> Last updated: Fri Aug 21 2015.  
+> Last updated: Tue Aug 25 17:25:42 EDT 2015
 
 <!-- vim: set ts=4 sw=4 -->
