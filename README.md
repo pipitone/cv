@@ -55,8 +55,8 @@ Centre for Addiction and Mental Health
   *Mozilla, Toronto* 
 
     Developed course materials for the Python lessons of the Software Carpentry
-    project (http://software-carpentry.org), as well as developed website and
-    server infrastructure.  
+    project (http://software-carpentry.org), as well as website and server
+    infrastructure.  
 
 - **Software Developer**, 2005-2007  
   *The Jonah Group, Toronto*
@@ -94,12 +94,10 @@ Centre for Addiction and Mental Health
 
 ## Teaching
 - **Scientific Computing Fundamentals for CAMH Researchers workshop series**,
-    August 2015, CAMH. Lead.
-    http://pipitone.github.io/camh-computing-skills-august-2015
+    August 2015, CAMH. http://pipitone.github.io/camh-computing-skills-august-2015
 
 - **Scientific Computing Fundamentals for CAMH Researchers workshop series**,
-    March 2015, CAMH. Lead.  
-    http://pipitone.github.io/computing-skills/ 
+    March 2015, CAMH. http://pipitone.github.io/computing-skills/ 
 
 - **Climate Change: Software, Science, and Society (PMU199)**. 01/2011-05/2011,
   *Teaching Assistant*
@@ -138,6 +136,15 @@ Centre for Addiction and Mental Health
 ## Publications
 
 ### Peer-Reviewed Publications 
+
+- Eric Plitman, M. Mallar Chakravarty, Jun Ku Chung, Raihaan Patel, **Jon
+  Pipitone**, Sofia Chaveza, Francisco Reyes-Madrigal, Gladys Gómez-Cruz, Pablo
+  León-Ortiz, Camilo de la Fuente-Sandoval, Ariel Graff-Guerrero. (2015).
+  Glutamate+glutamine (Glx) levels in the associative striatum are related to
+  local volume deficits in antipsychotic-naïve patients with first-episode
+  psychosis: a proton magnetic resonance spectroscopy study with implications
+  for excitotoxicity. *(Manuscript in preparation)*
+
 - Guo, T., Winterburn, J. L., **Pipitone, J.**, Duerden, E.G.,  Park, M.M.,
   Chau, V., Poskitt, K. J, Grunau, R. E., Synnes, A., Miller, S. P.,
   Chakravarty, M. M., Automatic segmentation of the hippocampus for preterm
@@ -145,9 +152,8 @@ Centre for Addiction and Mental Health
   ISSN 2213-1582. http://dx.doi.org/10.1016/j.nicl.2015.07.019.
 
 - Voineskos AN, Winterburn JL, Felsky D, **Pipitone J**, Rajji TK, Mulsant BH,
-  Chakravarty MM. Hippocampal (subfield) volume and shape in relation to
-  cognitive  performance across the adult lifespan. Hum Brain Mapp. 2015
-  Aug;36(8):3020-37. 
+  Chakravarty MM. (2015). Hippocampal (subfield) volume and shape in relation
+  to cognitive performance across the adult lifespan. Human Brain Mapping. 
 
 - Barnett, A. J., Park, M. T., **Pipitone, J.**, Chakravarty, M. M., and
   McAndrews, M. P. (2015). Functional and structural correlates of memory in
@@ -250,6 +256,6 @@ Centre for Addiction and Mental Health
 ---
 
 > Available at: http://github.com/pipitone/cv  
-> Last updated: Tue Aug 25 17:25:42 EDT 2015
+> Last updated: Tue Sep 15 17:42:29 EDT 2015
 
 <!-- vim: set ts=4 sw=4 -->
