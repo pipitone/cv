@@ -136,6 +136,7 @@ Centre for Addiction and Mental Health
 ## Publications
 
 ### Peer-Reviewed Publications 
+- Stephanie H. Ameis, Jason P. Lerch, Margot Taylor, Wayne Lee, Joseph Viviano, **Jon Pipitone**, Arash Nazeri, Paul Croarkin, Aristotle Voineskos, Jennifer Crosbie, Jessica Brian, Noam Soreni, Russell Schachar, Peter Szatmari, Paul Arnold, and Evdokia Anagnostou. (2015). Common and Distinct White Matter Markers in Children with Attention-Deficit/Hyperactivity Disorder, Obsessive Compulsive Disorder and Autism Spectrum Disorder. *(Manuscript in preparation)*
 
 - Eric Plitman, M. Mallar Chakravarty, Jun Ku Chung, Raihaan Patel, **Jon
   Pipitone**, Sofia Chaveza, Francisco Reyes-Madrigal, Gladys Gómez-Cruz, Pablo
