@@ -91,11 +91,10 @@ Centre for Addiction and Mental Health
     diagrams using SVG, Javascript, and Perl.
 
 ## Teaching
-- **Scientific Computing Fundamentals for CAMH Researchers workshop series**,
-    August 2015, CAMH. http://pipitone.github.io/camh-computing-skills-august-2015
-
-- **Scientific Computing Fundamentals for CAMH Researchers workshop series**,
-    March 2015, CAMH. http://pipitone.github.io/computing-skills/ 
+- **Scientific Computing Fundamentals for CAMH Researchers workshop series**
+    - November 2015, CAMH. http://camh-scwg.github.io/lrn2compute
+    - August 2015, CAMH. http://pipitone.github.io/camh-computing-skills-august-2015
+    - March 2015, CAMH. http://pipitone.github.io/computing-skills
 
 - **Climate Change: Software, Science, and Society (PMU199)**. 01/2011-05/2011,
   *Teaching Assistant*
@@ -266,6 +265,6 @@ Centre for Addiction and Mental Health
 ---
 
 > Available at: http://github.com/pipitone/cv  
-> Last updated: Tue Sep 15 17:42:29 EDT 2015
+> Last updated: Fri Jan 29 13:40:26 EST 2016
 
 <!-- vim: set ts=4 sw=4 -->
