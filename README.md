@@ -136,11 +136,22 @@ Centre for Addiction and Mental Health
 ## Publications
 
 ### Peer-Reviewed Publications 
-- Stephanie H. Ameis, Jason P. Lerch, Margot Taylor, Wayne Lee, Joseph Viviano, **Jon Pipitone**, Arash Nazeri, Paul Croarkin, Aristotle Voineskos, Jennifer Crosbie, Jessica Brian, Noam Soreni, Russell Schachar, Peter Szatmari, Paul Arnold, and Evdokia Anagnostou. (2015). Common and Distinct White Matter Markers in Children with Attention-Deficit/Hyperactivity Disorder, Obsessive Compulsive Disorder and Autism Spectrum Disorder. *(Manuscript in preparation)*
+- Nikhil Bhagwat, **Jon Pipitone**, Julie Winterburn, Ting Guo, Emma Duerden,
+  Aristotle Voineskos, Martin Lepage, Steven Miller, Jens Pruessner, M Mallar 
+  Chakravarty. (2016). Manual-protocol inspired technique for improving automated 
+  MR image segmentation during label-fusion. Frontiers in Neuroscience. 
+  *(Manuscript under review)*      
+
+- Stephanie H. Ameis, Jason P. Lerch, Margot Taylor, Wayne Lee, Joseph Viviano, 
+  **Jon Pipitone**, Arash Nazeri, Paul Croarkin, Aristotle Voineskos, Jennifer 
+  Crosbie, Jessica Brian, Noam Soreni, Russell Schachar, Peter Szatmari, Paul 
+  Arnold, and Evdokia Anagnostou. (2016). Common and Distinct White Matter Markers 
+  in Children with Attention-Deficit/Hyperactivity Disorder, Obsessive Compulsive 
+  Disorder and Autism Spectrum Disorder. *(Manuscript in preparation)*
 
 - Eric Plitman, M. Mallar Chakravarty, Jun Ku Chung, Raihaan Patel, **Jon
   Pipitone**, Sofia Chaveza, Francisco Reyes-Madrigal, Gladys Gómez-Cruz, Pablo
-  León-Ortiz, Camilo de la Fuente-Sandoval, Ariel Graff-Guerrero. (2015).
+  León-Ortiz, Camilo de la Fuente-Sandoval, Ariel Graff-Guerrero. (2016).
   Glutamate+glutamine (Glx) levels in the associative striatum are related to
   local volume deficits in antipsychotic-naïve patients with first-episode
   psychosis: a proton magnetic resonance spectroscopy study with implications
