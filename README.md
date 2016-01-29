@@ -25,9 +25,7 @@ Centre for Addiction and Mental Health
   Perl, Visual Basic, Eclipse, XML, SVG, XSLT, Git, SVN, MySQL, SQLite, LaTeX,
   Jekyll
 
-<!--
-- **Neuroimaging: FSL, MINC tools, Slicer, ANTS, FreeSurfer, UKFTractography
--->
+- **Neuroimaging**: FSL, MINC tools, Slicer, ANTS, FreeSurfer, UKFTractography
   
 ## Work
 - **Research Methods Specialist**, 2012-Present  
