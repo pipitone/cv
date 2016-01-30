@@ -133,6 +133,10 @@ Centre for Addiction and Mental Health
 ## Publications
 
 ### Peer-Reviewed Publications 
+- Nikhil Bhagwat, **Jon Pipitone** (co-first author), Matt T. Park, Aristotle Voineskos, 
+  M Mallar Chakravarty, Alzheimer's Disease Neuroimaging Initiative. (2016).  Neural-Net 
+  model for predicting clinical symptom scores in Alzheimer's Disease. *(Manuscript in preparation)*   
+
 - Nikhil Bhagwat, **Jon Pipitone**, Julie Winterburn, Ting Guo, Emma Duerden,
   Aristotle Voineskos, Martin Lepage, Steven Miller, Jens Pruessner, M Mallar 
   Chakravarty. (2016). Manual-protocol inspired technique for improving automated 
@@ -144,7 +148,7 @@ Centre for Addiction and Mental Health
   Crosbie, Jessica Brian, Noam Soreni, Russell Schachar, Peter Szatmari, Paul 
   Arnold, and Evdokia Anagnostou. (2016). Common and Distinct White Matter Markers 
   in Children with Attention-Deficit/Hyperactivity Disorder, Obsessive Compulsive 
-  Disorder and Autism Spectrum Disorder. *(Manuscript in preparation)*
+  Disorder and Autism Spectrum Disorder. *(Manuscript under review)*
 
 - Eric Plitman, M. Mallar Chakravarty, Jun Ku Chung, Raihaan Patel, **Jon
   Pipitone**, Sofia Chaveza, Francisco Reyes-Madrigal, Gladys Gómez-Cruz, Pablo
