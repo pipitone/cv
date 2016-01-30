@@ -160,9 +160,14 @@ Centre for Addiction and Mental Health
 
 - Guo, T., Winterburn, J. L., **Pipitone, J.**, Duerden, E.G.,  Park, M.M.,
   Chau, V., Poskitt, K. J, Grunau, R. E., Synnes, A., Miller, S. P.,
-  Chakravarty, M. M., Automatic segmentation of the hippocampus for preterm
+  Chakravarty, M. M. (2015). Automatic segmentation of the hippocampus for preterm
   neonates from early-in-life to term-equivalent age, NeuroImage: Clinical,
   ISSN 2213-1582. http://dx.doi.org/10.1016/j.nicl.2015.07.019.
+
+- Nieman BJ, de Guzman AE, Gazdzinski LM, Lerch JP, Chakravarty MM, **Pipitone J**, 
+  Strother D, Fryer C, Bouffet E, Laughlin S, Laperriere N, Riggs L, Skocic J, 
+  Mabbott DJ. (2015). White and Gray Matter Abnormalities After Cranial Radiation 
+  in Children and Mice. Int J Radiat Oncol Biol Phys
 
 - Voineskos AN, Winterburn JL, Felsky D, **Pipitone J**, Rajji TK, Mulsant BH,
   Chakravarty MM. (2015). Hippocampal (subfield) volume and shape in relation
