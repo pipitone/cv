@@ -133,6 +133,13 @@ Centre for Addiction and Mental Health
 ## Publications
 
 ### Peer-Reviewed Publications 
+- Robert S.C. Amaral, Min Tae M. Park, Gabriel A. Devenyi, Vivian Lynn, **Jon Pipitone**, 
+  Julie Winterburn, Sofia Chavez, Mark Schira, Nancy Lobaugh, Aristotle N. Voineskos, Jens 
+  C. Pruessner, M. Mallar Chakravarty, the Alzheimer's Disease Neuroimaging Initiative. (2016). 
+  Manual segmentation of the fornix, fimbria, and alveus on high-resolution 3T MRI: Application 
+  via fully-automated mapping of the memory circuit in healthy and pathological aging. Cerebral
+  Cortex. *(Manuscript in preparation)*
+
 - Nikhil Bhagwat, **Jon Pipitone** (co-first author), Matt T. Park, Aristotle Voineskos, 
   M Mallar Chakravarty, Alzheimer's Disease Neuroimaging Initiative. (2016).  Neural-Net 
   model for predicting clinical symptom scores in Alzheimer's Disease. *(Manuscript in preparation)*   
