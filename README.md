@@ -155,7 +155,7 @@ Centre for Addiction and Mental Health
   Crosbie, Jessica Brian, Noam Soreni, Russell Schachar, Peter Szatmari, Paul 
   Arnold, and Evdokia Anagnostou. (2016). Common and Distinct White Matter Markers 
   in Children with Attention-Deficit/Hyperactivity Disorder, Obsessive Compulsive 
-  Disorder and Autism Spectrum Disorder. *(Manuscript under review)*
+  Disorder and Autism Spectrum Disorder. *(Manuscript in press)*
 
 - Eric Plitman, M. Mallar Chakravarty, Jun Ku Chung, Raihaan Patel, **Jon
   Pipitone**, Sofia Chaveza, Francisco Reyes-Madrigal, Gladys Gómez-Cruz, Pablo
@@ -163,7 +163,7 @@ Centre for Addiction and Mental Health
   Glutamate+glutamine (Glx) levels in the associative striatum are related to
   local volume deficits in antipsychotic-naïve patients with first-episode
   psychosis: a proton magnetic resonance spectroscopy study with implications
-  for excitotoxicity. *(Manuscript in preparation)*
+  for excitotoxicity. *(Manuscript under review)*
 
 - Guo, T., Winterburn, J. L., **Pipitone, J.**, Duerden, E.G.,  Park, M.M.,
   Chau, V., Poskitt, K. J, Grunau, R. E., Synnes, A., Miller, S. P.,
