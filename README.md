@@ -150,20 +150,22 @@ Centre for Addiction and Mental Health
   MR image segmentation during label-fusion. Frontiers in Neuroscience. 
   *(Manuscript under review)*      
 
-- Stephanie H. Ameis, Jason P. Lerch, Margot Taylor, Wayne Lee, Joseph Viviano, 
-  **Jon Pipitone**, Arash Nazeri, Paul Croarkin, Aristotle Voineskos, Jennifer 
-  Crosbie, Jessica Brian, Noam Soreni, Russell Schachar, Peter Szatmari, Paul 
-  Arnold, and Evdokia Anagnostou. (2016). Common and Distinct White Matter Markers 
-  in Children with Attention-Deficit/Hyperactivity Disorder, Obsessive Compulsive 
-  Disorder and Autism Spectrum Disorder. *(Manuscript in press)*
-
 - Eric Plitman, M. Mallar Chakravarty, Jun Ku Chung, Raihaan Patel, **Jon
   Pipitone**, Sofia Chaveza, Francisco Reyes-Madrigal, Gladys Gómez-Cruz, Pablo
   León-Ortiz, Camilo de la Fuente-Sandoval, Ariel Graff-Guerrero. (2016).
   Glutamate+glutamine (Glx) levels in the associative striatum are related to
   local volume deficits in antipsychotic-naïve patients with first-episode
   psychosis: a proton magnetic resonance spectroscopy study with implications
-  for excitotoxicity. *(Manuscript under review)*
+  for excitotoxicity. Neuropsychopharmacology *(Manuscript in press)*
+
+- Ameis, Stephanie, Jason Lerch, Margot Taylor, Wayne Lee, Joseph Viviano,
+  **Jon Pipitone**, Arash Nazeri, Paul Croarkin, Aristotle Voineskos, Jennifer
+  Crosbie, Jessica Brian, Noam Soreni, Russell Schachar, Peter Szatmari, Paul
+  Arnold, and Evdokia Anagnostou. "Common and Distinct White Matter Markers in
+  Children with Attention-Deficit/Hyperactivity Disorder, Obsessive Compulsive
+  Disorder and Autism Spectrum Disorder." In NEUROPSYCHOPHARMACOLOGY, vol. 40,
+  pp. s292-s293. macmillan building, 4 crinan st, london n1 9xw, england:
+  nature publishing group, 2015.
 
 - Guo, T., Winterburn, J. L., **Pipitone, J.**, Duerden, E.G.,  Park, M.M.,
   Chau, V., Poskitt, K. J, Grunau, R. E., Synnes, A., Miller, S. P.,
