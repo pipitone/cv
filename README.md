@@ -133,6 +133,11 @@ Centre for Addiction and Mental Health
 ## Publications
 
 ### Peer-Reviewed Publications 
+
+- Arash Nazeri, Benoit H Mulsant, Tarek K Rajji, Melissa L Levesque, **Jon Pipitone**, Laura 
+  Stefanik, Tina Roostaei, Anne L Wheeler, Sofia Chavez. (2016). Gray matter neuritic microstructure 
+  deficits in schizophrenia and bipolar disorder. Biological Psychiatry *(Manuscript in submission)*
+
 - Robert S.C. Amaral, Min Tae M. Park, Gabriel A. Devenyi, Vivian Lynn, **Jon Pipitone**, 
   Julie Winterburn, Sofia Chavez, Mark Schira, Nancy Lobaugh, Aristotle N. Voineskos, Jens 
   C. Pruessner, M. Mallar Chakravarty, the Alzheimer's Disease Neuroimaging Initiative. (2016). 
