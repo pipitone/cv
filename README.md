@@ -163,6 +163,12 @@ Centre for Addiction and Mental Health
   psychosis: a proton magnetic resonance spectroscopy study with implications
   for excitotoxicity. Neuropsychopharmacology *(Manuscript in press)*
 
+- Ameis, Stephanie H., Jason P. Lerch, Margot J. Taylor, Wayne Lee, Joseph D. Viviano, 
+  **Jon Pipitone**, Arash Nazeri, et al. “A Diffusion Tensor Imaging Study in Children 
+  with ADHD, Autism Spectrum Disorder, OCD, and Matched Controls: Distinct and Non-Distinct 
+  White Matter Disruption and Dimensional Brain-Behavior Relationships.” American Journal 
+  of Psychiatry July 2016,: appi.ajp.2016.1. doi:10.1176/appi.ajp.2016.15111435.
+
 - Ameis, Stephanie, Jason Lerch, Margot Taylor, Wayne Lee, Joseph Viviano,
   **Jon Pipitone**, Arash Nazeri, Paul Croarkin, Aristotle Voineskos, Jennifer
   Crosbie, Jessica Brian, Noam Soreni, Russell Schachar, Peter Szatmari, Paul
