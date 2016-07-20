@@ -133,6 +133,7 @@ Centre for Addiction and Mental Health
 ## Publications
 
 ### Peer-Reviewed Publications 
+<!-- https://www.refme.com/us/citation-generator/chicago/ -->
 
 - Arash Nazeri, Benoit H Mulsant, Tarek K Rajji, Melissa L Levesque, **Jon Pipitone**, Laura 
   Stefanik, Tina Roostaei, Anne L Wheeler, Sofia Chavez. (2016). Gray matter neuritic microstructure 
@@ -149,11 +150,10 @@ Centre for Addiction and Mental Health
   M Mallar Chakravarty, Alzheimer's Disease Neuroimaging Initiative. (2016).  Neural-Net 
   model for predicting clinical symptom scores in Alzheimer's Disease. *(Manuscript in preparation)*   
 
-- Nikhil Bhagwat, **Jon Pipitone**, Julie Winterburn, Ting Guo, Emma Duerden,
-  Aristotle Voineskos, Martin Lepage, Steven Miller, Jens Pruessner, M Mallar 
-  Chakravarty. (2016). Manual-protocol inspired technique for improving automated 
-  MR image segmentation during label-fusion. Frontiers in Neuroscience. 
-  *(Manuscript under review)*      
+- Bhagwat, Nikhil, **Jon Pipitone**, Julie L. Winterburn, Ting Guo, Emma G. Duerden, Aristotle N. 
+  Voineskos, Martin Lepage, et al. “Manual-Protocol Inspired Technique for Improving Automated 
+  MR Image Segmentation During Label Fusion.” Frontiers in Neuroscience 10 (July 19, 2016). 
+  doi:10.3389/fnins.2016.00325.     
 
 - Eric Plitman, M. Mallar Chakravarty, Jun Ku Chung, Raihaan Patel, **Jon
   Pipitone**, Sofia Chaveza, Francisco Reyes-Madrigal, Gladys Gómez-Cruz, Pablo
