@@ -1,12 +1,13 @@
 # Jon Pipitone
 
-+1-647-639-1919  
++1 (647) 639-1919  
 jon@pipitone.ca  
 http://github.com/pipitone  
-Centre for Addiction and Mental Health  
-250 College St. Toronto, ON  M5T 1R8
+2 Orchard St. Kingston, ON, Canada K7K 2Z4  
 
 ## Education
+- **MD Candidate (2016-2020), Queen's University School of Medicine**
+
 - **MSc. Computer Science (2007-2010), University of Toronto**  
     Thesis: "On software quality in climate modelling"
 
@@ -28,7 +29,7 @@ Centre for Addiction and Mental Health
 - **Neuroimaging**: FSL, MINC tools, Slicer, ANTS, FreeSurfer, UKFTractography
   
 ## Work
-- **Research Methods Specialist**, 2012-Present  
+- **Research Methods Specialist**, 2012-2016  
   *Kimel Lab, Centre for Addiction and Mental Health, Toronto*
 
     Research in automated MR image segmentation of the hippocampus, machine
@@ -148,7 +149,7 @@ Centre for Addiction and Mental Health
 
 - Nikhil Bhagwat, **Jon Pipitone** (co-first author), Matt T. Park, Aristotle Voineskos, 
   M Mallar Chakravarty, Alzheimer's Disease Neuroimaging Initiative. (2016).  Neural-Net 
-  model for predicting clinical symptom scores in Alzheimer's Disease. *(Manuscript in preparation)*   
+  model for predicting clinical symptom scores in Alzheimer's Disease. *(Manuscript in submission)*   
 
 - Bhagwat, Nikhil, **Jon Pipitone**, Julie L. Winterburn, Ting Guo, Emma G. Duerden, Aristotle N. 
   Voineskos, Martin Lepage, et al. “Manual-Protocol Inspired Technique for Improving Automated 
@@ -158,16 +159,15 @@ Centre for Addiction and Mental Health
 - Eric Plitman, M. Mallar Chakravarty, Jun Ku Chung, Raihaan Patel, **Jon
   Pipitone**, Sofia Chaveza, Francisco Reyes-Madrigal, Gladys Gómez-Cruz, Pablo
   León-Ortiz, Camilo de la Fuente-Sandoval, Ariel Graff-Guerrero. (2016).
-  Glutamate+glutamine (Glx) levels in the associative striatum are related to
-  local volume deficits in antipsychotic-naïve patients with first-episode
-  psychosis: a proton magnetic resonance spectroscopy study with implications
-  for excitotoxicity. Neuropsychopharmacology *(Manuscript in press)*
+  Glutamatergic Metabolites, Volume and Cortical Thickness in Antipsychotic-Naive 
+  Patients with First-Episode Psychosis: Implications for Excitotoxicity 
+  (2016 Sep; 41(10):2606-13). doi:10.1038/npp.2016.84. Neuropsychopharmacology 
 
 - Ameis, Stephanie H., Jason P. Lerch, Margot J. Taylor, Wayne Lee, Joseph D. Viviano, 
   **Jon Pipitone**, Arash Nazeri, et al. “A Diffusion Tensor Imaging Study in Children 
   with ADHD, Autism Spectrum Disorder, OCD, and Matched Controls: Distinct and Non-Distinct 
   White Matter Disruption and Dimensional Brain-Behavior Relationships.” American Journal 
-  of Psychiatry July 2016,: appi.ajp.2016.1. doi:10.1176/appi.ajp.2016.15111435.
+  of Psychiatry (July 2016). appi.ajp.2016.1. doi:10.1176/appi.ajp.2016.15111435.
 
 - Ameis, Stephanie, Jason Lerch, Margot Taylor, Wayne Lee, Joseph Viviano,
   **Jon Pipitone**, Arash Nazeri, Paul Croarkin, Aristotle Voineskos, Jennifer
@@ -273,7 +273,8 @@ Centre for Addiction and Mental Health
   climate models. AGU Fall Meeting Abstracts, 1:0759.
   
 - **Pipitone, J.**, Aranda, J., and Cortés, V. Aim for the eagle: Making the
-  best use of our software research skills to fight climate change.
+  best use of our software research skills to fight climate change. In proceedings 
+  of the 2010 Second International Workshop on Software Research and Climate Change.
 
 ## Courses
 
@@ -294,6 +295,6 @@ Centre for Addiction and Mental Health
 ---
 
 > Available at: http://github.com/pipitone/cv  
-> Last updated: Fri Jan 29 13:40:26 EST 2016
+> Last updated: Wed Oct  5 16:59:06 EDT 2016
 
 <!-- vim: set ts=4 sw=4 -->
