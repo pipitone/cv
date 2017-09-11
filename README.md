@@ -136,20 +136,21 @@ http://github.com/pipitone
 ### Peer-Reviewed Publications 
 <!-- https://www.refme.com/us/citation-generator/chicago/ -->
 
-- Arash Nazeri, Benoit H Mulsant, Tarek K Rajji, Melissa L Levesque, **Jon Pipitone**, Laura 
-  Stefanik, Tina Roostaei, Anne L Wheeler, Sofia Chavez. (2016). Gray matter neuritic microstructure 
-  deficits in schizophrenia and bipolar disorder. Biological Psychiatry *(Manuscript in submission)*
+- Nikhil Bhagwat, **Jon Pipitone** (co-first author), Matt T. Park, Aristotle Voineskos, 
+  M Mallar Chakravarty, Alzheimer's Disease Neuroimaging Initiative. (2017).  Neural-Net 
+  model for predicting clinical symptom scores in Alzheimer's Disease. *(Manuscript in submission)*   
 
 - Robert S.C. Amaral, Min Tae M. Park, Gabriel A. Devenyi, Vivian Lynn, **Jon Pipitone**, 
   Julie Winterburn, Sofia Chavez, Mark Schira, Nancy Lobaugh, Aristotle N. Voineskos, Jens 
   C. Pruessner, M. Mallar Chakravarty, the Alzheimer's Disease Neuroimaging Initiative. (2016). 
   Manual segmentation of the fornix, fimbria, and alveus on high-resolution 3T MRI: Application 
-  via fully-automated mapping of the memory circuit in healthy and pathological aging. Cerebral
-  Cortex. *(Manuscript in preparation)*
+  via fully-automated mapping of the memory circuit in healthy and pathological
+  aging. Neuroimage.  doi:10.1016/j.neuroimage.2016.10.027
 
-- Nikhil Bhagwat, **Jon Pipitone** (co-first author), Matt T. Park, Aristotle Voineskos, 
-  M Mallar Chakravarty, Alzheimer's Disease Neuroimaging Initiative. (2016).  Neural-Net 
-  model for predicting clinical symptom scores in Alzheimer's Disease. *(Manuscript in submission)*   
+- Arash Nazeri, Benoit H Mulsant, Tarek K Rajji, Melissa L Levesque, **Jon Pipitone**, Laura 
+  Stefanik, Tina Roostaei, Anne L Wheeler, Sofia Chavez. (2016). Gray matter neuritic microstructure 
+  deficits in schizophrenia and bipolar disorder. Biological Psychiatry.
+  doi:10.1016/j.biopsych.2016.12.005
 
 - Bhagwat, Nikhil, **Jon Pipitone**, Julie L. Winterburn, Ting Guo, Emma G. Duerden, Aristotle N. 
   Voineskos, Martin Lepage, et al. “Manual-Protocol Inspired Technique for Improving Automated 
