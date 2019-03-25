@@ -92,6 +92,9 @@ http://github.com/pipitone
     diagrams using SVG, Javascript, and Perl.
 
 ## Teaching
+- **QMED Computes**, 09/2017-05/2018, *Course design and instruction*
+    Research computing skills course for Queen's medical students.
+    
 - **Scientific Computing Fundamentals for CAMH Researchers workshop series**
     - November 2015, CAMH. http://camh-scwg.github.io/lrn2compute
     - August 2015, CAMH. http://pipitone.github.io/camh-computing-skills-august-2015
@@ -122,14 +125,18 @@ http://github.com/pipitone
   *Teaching Assistant*
 
 ## Volunteer Work
-
-- **Software Carpentry**, Computing skills for scientists. 2007-Present.
-  Admin/instruction
-- **CAMH Schizophrenia Volleyball Program**, Weekly client-staff volleyball.
-  2012-Present. Coordinator and supervisor.  
-- **Hot Yam!**, Campus kitchen, 2007-2011. Coordinator
-- **Toronto Sustainable Food Co-operative**, Campus kitchen. 2011. Founder. 
-- **Canadian Civil Liberties Association**, G20 Observer, 2010. 
+- **QMED Yearbook**, 09/2018-Present, *Editor*
+- **QMED SpeakEasy**, 05/2018, Class event to foster dialog on difficult topics. *Organiser/Facilitator*
+- **QMED Mindfulness**, 09/2016-05/2018, Daily mindfulness co-learning group. *Coordinator/Instructor*
+- **Pre-clerkship Clinical Skills**, 2017-2018. Weekly pre-clerk clinical skills teaching sessions. *Instructor*
+- **QMED Class Professionalism Rep**, 01/2017-Present. Elected. Advocate on behalf of student professionalism concerns.
+- **Circles Kingston**, 07/2018-09/2018, Poverty-to-self-sufficiency networking group by Loving Spoonful. *Kitchen helper*
+- **Software Carpentry**, 2007-2017, Computing skills workshops for scientists.
+  *Instructor/sysadmin* 
+- **CAMH Schizophrenia Volleyball Program**, 2012-2016. Weekly client-staff volleyball. *Coordinator and supervisor.*  
+- **Hot Yam!**, *2007-2011*. Student-run campus kitchen @ U of Toronto, *Coordinator*
+- **Toronto Sustainable Food Co-operative**, 2011. Campus restaurant cooperative @ U of Toronto. *Founder* 
+- **Canadian Civil Liberties Association**, 2010. G20 Observer 
 
 ## Publications
 
@@ -281,7 +288,8 @@ http://github.com/pipitone
 
 ## Courses
 
-- Topics in computer science (CSC2600), Winter 2011 
+University of Toronto:
+- Topics in computer science (CSC2600), Winter 2011.
 - Building community resilience (CHL7001), Fall 2010
 - Topics in software engineering (CSC2125), Winter 2007
 - Natural language computing (CSC2511), Winter 2007
