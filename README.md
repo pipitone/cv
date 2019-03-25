@@ -136,9 +136,11 @@ http://github.com/pipitone
 ### Peer-Reviewed Publications 
 <!-- https://www.refme.com/us/citation-generator/chicago/ -->
 
-- Nikhil Bhagwat, **Jon Pipitone** (co-first author), Matt T. Park, Aristotle Voineskos, 
-  M Mallar Chakravarty, Alzheimer's Disease Neuroimaging Initiative. (2017).  Neural-Net 
-  model for predicting clinical symptom scores in Alzheimer's Disease. *(Manuscript in submission)*   
+- Nikhil Bhagwat, **Jon Pipitone**, Aristotle Voineskos, M Mallar Chakravarty, 
+  Alzheimer's Disease Neuroimaging Initiative. (2019).  An artificial neural 
+  network model for clinical score prediction in Alzheimer disease using structural
+  neuroimaging measures. J Psychiatry Neurosci. 2019 Feb 5;44(2):1-15. PMID:
+  30720260  
 
 - Robert S.C. Amaral, Min Tae M. Park, Gabriel A. Devenyi, Vivian Lynn, **Jon Pipitone**, 
   Julie Winterburn, Sofia Chavez, Mark Schira, Nancy Lobaugh, Aristotle N. Voineskos, Jens 
@@ -296,6 +298,6 @@ http://github.com/pipitone
 ---
 
 > Available at: http://github.com/pipitone/cv  
-> Last updated: Wed Oct  5 16:59:06 EDT 2016
+> Last updated: Mon Mar  25 10:45:06 EDT 2019
 
 <!-- vim: set ts=4 sw=4 -->
