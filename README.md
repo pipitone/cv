@@ -125,6 +125,7 @@ http://github.com/pipitone
   *Teaching Assistant*
 
 ## Volunteer Work
+- **QMED BAMS**, 09/2018-Present, *Facilitator*
 - **QMED Yearbook**, 09/2018-Present, *Editor*
 - **QMED SpeakEasy**, 05/2018, Class event to foster dialog on difficult topics. *Organiser/Facilitator*
 - **QMED Mindfulness**, 09/2016-05/2018, Daily mindfulness co-learning group. *Coordinator/Instructor*
