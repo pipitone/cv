@@ -1,2 +1,2 @@
 cv.pdf: README.md
-	pandoc README.md --latex-engine=xelatex -o cv.pdf
+	pandoc -V geometry:margin=1in README.md --pdf-engine=xelatex -o cv.pdf

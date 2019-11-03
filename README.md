@@ -126,7 +126,6 @@ http://github.com/pipitone
 
 ## Volunteer Work
 - **QMED BAMS**, 09/2018-Present, *Facilitator*
-- **QMED Yearbook**, 09/2018-Present, *Editor*
 - **QMED SpeakEasy**, 05/2018, Class event to foster dialog on difficult topics. *Organiser/Facilitator*
 - **QMED Mindfulness**, 09/2016-05/2018, Daily mindfulness co-learning group. *Coordinator/Instructor*
 - **Pre-clerkship Clinical Skills**, 2017-2018. Weekly pre-clerk clinical skills teaching sessions. *Instructor*
@@ -150,17 +149,22 @@ http://github.com/pipitone
   neuroimaging measures. J Psychiatry Neurosci. 2019 Feb 5;44(2):1-15. PMID:
   30720260  
 
+- Donelle, Jessy and Duffin, Jacalyn and **Pipitone, Jonathan** and White-Guay,
+  Brian, Assessing Canada's Drug Shortage Problem (June 5, 2018). C.D. Howe
+  Institute Commentary 515. doi: 10.2139/ssrn.3192558  
+
+- Nazeri, A., Mulsant, B., Rajji, T., Levesque, M., **Pipitone, J.**, Stefanik,
+  L., Shahab, S., Roostaei, T., Wheeler, A., Chavez, S. and Voineskos, A.
+  (2017). Gray Matter Neuritic Microstructure Deficits in Schizophrenia and
+  Bipolar Disorder. Biological Psychiatry, 82(10), pp.726-736.
+  doi:10.1016/j.biopsych.2016.12.005
+
 - Robert S.C. Amaral, Min Tae M. Park, Gabriel A. Devenyi, Vivian Lynn, **Jon Pipitone**, 
   Julie Winterburn, Sofia Chavez, Mark Schira, Nancy Lobaugh, Aristotle N. Voineskos, Jens 
   C. Pruessner, M. Mallar Chakravarty, the Alzheimer's Disease Neuroimaging Initiative. (2016). 
   Manual segmentation of the fornix, fimbria, and alveus on high-resolution 3T MRI: Application 
   via fully-automated mapping of the memory circuit in healthy and pathological
   aging. Neuroimage.  doi:10.1016/j.neuroimage.2016.10.027
-
-- Arash Nazeri, Benoit H Mulsant, Tarek K Rajji, Melissa L Levesque, **Jon Pipitone**, Laura 
-  Stefanik, Tina Roostaei, Anne L Wheeler, Sofia Chavez. (2016). Gray matter neuritic microstructure 
-  deficits in schizophrenia and bipolar disorder. Biological Psychiatry.
-  doi:10.1016/j.biopsych.2016.12.005
 
 - Bhagwat, Nikhil, **Jon Pipitone**, Julie L. Winterburn, Ting Guo, Emma G. Duerden, Aristotle N. 
   Voineskos, Martin Lepage, et al. “Manual-Protocol Inspired Technique for Improving Automated 
@@ -307,6 +311,6 @@ University of Toronto:
 ---
 
 > Available at: http://github.com/pipitone/cv  
-> Last updated: Mon Mar  25 10:45:06 EDT 2019
+> Last updated: Sun Nov  3 13:46:04 EST 2019
 
 <!-- vim: set ts=4 sw=4 -->
