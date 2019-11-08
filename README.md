@@ -143,117 +143,43 @@ http://github.com/pipitone
 ### Peer-Reviewed Publications 
 <!-- https://www.refme.com/us/citation-generator/chicago/ -->
 
-- Nikhil Bhagwat, **Jon Pipitone**, Aristotle Voineskos, M Mallar Chakravarty, 
-  Alzheimer's Disease Neuroimaging Initiative. (2019).  An artificial neural 
-  network model for clinical score prediction in Alzheimer disease using structural
-  neuroimaging measures. J Psychiatry Neurosci. 2019 Feb 5;44(2):1-15. PMID:
-  30720260  
+- Bhagwat, Nikhil, Jon **Pipitone**, Aristotle N. Voineskos, and M. Mallar Chakravarty. “An Artificial Neural Network Model for Clinical Score Prediction in Alzheimer Disease Using Structural Neuroimaging Measures.” Journal of Psychiatry and Neuroscience 44, no. 4 (July 1, 2019): 246–50. https://doi.org/10.1503/jpn.180016.
 
-- Donelle, Jessy and Duffin, Jacalyn and **Pipitone, Jonathan** and White-Guay,
-  Brian, Assessing Canada's Drug Shortage Problem (June 5, 2018). C.D. Howe
-  Institute Commentary 515. doi: 10.2139/ssrn.3192558  
+- Amaral, Robert S.C., Min Tae M. Park, Gabriel A. Devenyi, Vivian Lynn, Jon **Pipitone**, Julie Winterburn, Sofia Chavez, et al. “Manual Segmentation of the Fornix, Fimbria, and Alveus on High-Resolution 3T MRI: Application via Fully-Automated Mapping of the Human Memory Circuit White and Grey Matter in Healthy and Pathological Aging.” NeuroImage 170 (2018): 132–50. https://doi.org/10.1016/j.neuroimage.2016.10.027.
 
-- Nazeri, A., Mulsant, B., Rajji, T., Levesque, M., **Pipitone, J.**, Stefanik,
-  L., Shahab, S., Roostaei, T., Wheeler, A., Chavez, S. and Voineskos, A.
-  (2017). Gray Matter Neuritic Microstructure Deficits in Schizophrenia and
-  Bipolar Disorder. Biological Psychiatry, 82(10), pp.726-736.
-  doi:10.1016/j.biopsych.2016.12.005
+- Donelle, Jessy, Jacalyn Duffin, Jonathan **Pipitone**, and Brian White-Guay. “Assessing Canada’s Drug Shortage Problem.” CD Howe Institute Commentary 515, 2018. https://doi.org/10.2139/ssrn.3192558.
 
-- Robert S.C. Amaral, Min Tae M. Park, Gabriel A. Devenyi, Vivian Lynn, **Jon Pipitone**, 
-  Julie Winterburn, Sofia Chavez, Mark Schira, Nancy Lobaugh, Aristotle N. Voineskos, Jens 
-  C. Pruessner, M. Mallar Chakravarty, the Alzheimer's Disease Neuroimaging Initiative. (2016). 
-  Manual segmentation of the fornix, fimbria, and alveus on high-resolution 3T MRI: Application 
-  via fully-automated mapping of the memory circuit in healthy and pathological
-  aging. Neuroimage.  doi:10.1016/j.neuroimage.2016.10.027
+- Nazeri, Arash, Benoit H. Mulsant, Tarek K. Rajji, Melissa L. Levesque, Jon **Pipitone**, Laura Stefanik, Saba Shahab, et al. “Gray Matter Neuritic Microstructure Deficits in Schizophrenia and Bipolar Disorder.” Biological Psychiatry 82, no. 10 (November 2017): 726–36. https://doi.org/10.1016/j.biopsych.2016.12.005.
 
-- Bhagwat, Nikhil, **Jon Pipitone**, Julie L. Winterburn, Ting Guo, Emma G. Duerden, Aristotle N. 
-  Voineskos, Martin Lepage, et al. “Manual-Protocol Inspired Technique for Improving Automated 
-  MR Image Segmentation During Label Fusion.” Frontiers in Neuroscience 10 (July 19, 2016). 
-  doi:10.3389/fnins.2016.00325.     
+- Bhagwat, Nikhil, Jon **Pipitone**, Julie L. Winterburn, Ting Guo, Emma G. Duerden, Aristotle N. Voineskos, Martin Lepage, Steven P. Miller, Jens C. Pruessner, and Mallar Mallar Chakravarty. “Manual-Protocol Inspired Technique for Improving Automated MR Image Segmentation during Label Fusion.” Frontiers in Neuroscience 10, no. JUL (July 19, 2016). https://doi.org/10.3389/fnins.2016.00325.
 
-- Eric Plitman, M. Mallar Chakravarty, Jun Ku Chung, Raihaan Patel, **Jon
-  Pipitone**, Sofia Chaveza, Francisco Reyes-Madrigal, Gladys Gómez-Cruz, Pablo
-  León-Ortiz, Camilo de la Fuente-Sandoval, Ariel Graff-Guerrero. (2016).
-  Glutamatergic Metabolites, Volume and Cortical Thickness in Antipsychotic-Naive 
-  Patients with First-Episode Psychosis: Implications for Excitotoxicity 
-  (2016 Sep; 41(10):2606-13). doi:10.1038/npp.2016.84. Neuropsychopharmacology 
+- Plitman, Eric, Raihaan Patel, Jun Ku Chung, Jon **Pipitone**, Sofia Chavez, Francisco Reyes-Madrigal, Gladys Gómez-Cruz, et al. “Glutamatergic Metabolites, Volume and Cortical Thickness in Antipsychotic-Naive Patients with First-Episode Psychosis: Implications for Excitotoxicity.” Neuropsychopharmacology 41, no. 10 (September 8, 2016): 2606–13. https://doi.org/10.1038/npp.2016.84.
 
-- Ameis, Stephanie H., Jason P. Lerch, Margot J. Taylor, Wayne Lee, Joseph D. Viviano, 
-  **Jon Pipitone**, Arash Nazeri, et al. “A Diffusion Tensor Imaging Study in Children 
-  with ADHD, Autism Spectrum Disorder, OCD, and Matched Controls: Distinct and Non-Distinct 
-  White Matter Disruption and Dimensional Brain-Behavior Relationships.” American Journal 
-  of Psychiatry (July 2016). appi.ajp.2016.1. doi:10.1176/appi.ajp.2016.15111435.
+- Ameis, Stephanie H., Jason P. Lerch, Margot J. Taylor, Wayne Lee, Joseph D. Viviano, Jon **Pipitone**, Arash Nazeri, et al. “A Diffusion Tensor Imaging Study in Children With ADHD, Autism Spectrum Disorder, OCD, and Matched Controls: Distinct and Non-Distinct White Matter Disruption and Dimensional Brain-Behavior Relationships.” American Journal of Psychiatry 173, no. 12 (December 2016): 1213–22. https://doi.org/10.1176/appi.ajp.2016.15111435.
 
-- Ameis, Stephanie, Jason Lerch, Margot Taylor, Wayne Lee, Joseph Viviano,
-  **Jon Pipitone**, Arash Nazeri, Paul Croarkin, Aristotle Voineskos, Jennifer
-  Crosbie, Jessica Brian, Noam Soreni, Russell Schachar, Peter Szatmari, Paul
-  Arnold, and Evdokia Anagnostou. "Common and Distinct White Matter Markers in
-  Children with Attention-Deficit/Hyperactivity Disorder, Obsessive Compulsive
-  Disorder and Autism Spectrum Disorder." In NEUROPSYCHOPHARMACOLOGY, vol. 40,
-  pp. s292-s293. macmillan building, 4 crinan st, london n1 9xw, england:
-  nature publishing group, 2015.
+- Barnett, Alexander J, Min Tae M Park, Jon **Pipitone**, M Mallar Chakravarty, and Mary Pat McAndrews. “Functional and Structural Correlates of Memory in Patients with Mesial Temporal Lobe Epilepsy.” Frontiers in Neurology 6 (May 13, 2015): 103. https://doi.org/10.3389/fneur.2015.00103.
 
-- Guo, T., Winterburn, J. L., **Pipitone, J.**, Duerden, E.G.,  Park, M.M.,
-  Chau, V., Poskitt, K. J, Grunau, R. E., Synnes, A., Miller, S. P.,
-  Chakravarty, M. M. (2015). Automatic segmentation of the hippocampus for preterm
-  neonates from early-in-life to term-equivalent age, NeuroImage: Clinical,
-  ISSN 2213-1582. http://dx.doi.org/10.1016/j.nicl.2015.07.019.
+- Nieman, Brian J., A. Elizabeth de Guzman, Lisa M. Gazdzinski, Jason P. Lerch, M. Mallar Chakravarty, Jon **Pipitone**, Douglas Strother, et al. “White and Gray Matter Abnormalities After Cranial Radiation in Children and Mice.” International Journal of Radiation Oncology*Biology*Physics 93, no. 4 (November 2015): 882–91. https://doi.org/10.1016/j.ijrobp.2015.07.2293.
 
-- Nieman BJ, de Guzman AE, Gazdzinski LM, Lerch JP, Chakravarty MM, **Pipitone J**, 
-  Strother D, Fryer C, Bouffet E, Laughlin S, Laperriere N, Riggs L, Skocic J, 
-  Mabbott DJ. (2015). White and Gray Matter Abnormalities After Cranial Radiation 
-  in Children and Mice. Int J Radiat Oncol Biol Phys
+- Voineskos, Aristotle N., Julie L. Winterburn, Daniel Felsky, Jon **Pipitone**, Tarek K. Rajji, Benoit H. Mulsant, and M. Mallar Chakravarty. “Hippocampal (Subfield) Volume and Shape in Relation to Cognitive Performance across the Adult Lifespan.” Human Brain Mapping 36, no. 8 (August 2015): 3020–37. https://doi.org/10.1002/hbm.22825.
 
-- Voineskos AN, Winterburn JL, Felsky D, **Pipitone J**, Rajji TK, Mulsant BH,
-  Chakravarty MM. (2015). Hippocampal (subfield) volume and shape in relation
-  to cognitive performance across the adult lifespan. Human Brain Mapping. 
+- Guo, Ting, Julie L. Winterburn, Jon **Pipitone**, Emma G. Duerden, Min Tae M. Park, Vann Chau, Kenneth J. Poskitt, et al. “Automatic Segmentation of the Hippocampus for Preterm Neonates from Early-in-Life to Term-Equivalent Age.” NeuroImage: Clinical 9 (2015): 176–93. https://doi.org/10.1016/j.nicl.2015.07.019.
 
-- Barnett, A. J., Park, M. T., **Pipitone, J.**, Chakravarty, M. M., and
-  McAndrews, M. P. (2015). Functional and structural correlates of memory in
-  patients with mesial temporal lobe epilepsy. Frontiers in Neurology, 6.
+- Wong, Angelita Pui-Yee, Jon **Pipitone**, Min Tae M. Park, Erin W. Dickie, Gabriel Leonard, Michel Perron, Bruce G. Pike, et al. “Estimating Volumes of the Pituitary Gland from T1-Weighted Magnetic-Resonance Images: Effects of Age, Puberty, Testosterone, and Estradiol.” NeuroImage 94 (July 2014): 216–21. https://doi.org/10.1016/j.neuroimage.2014.02.030.
 
-- Friedel, M., van Eede, M. C., **Pipitone, J.**, Chakravarty, M. M., and
-  Lerch, J. P. (2014). Pydpiper: a flexible toolkit for constructing novel
-  registration pipelines. Frontiers in neuroinformatics, 8.
+- Wheeler, A. L., M. M. Chakravarty, J. P. Lerch, Jon **Pipitone**, Z. J. Daskalakis, T. K. Rajji, B. H. Mulsant, and A. N. Voineskos. “Disrupted Prefrontal Interhemispheric Structural Coupling in Schizophrenia Related to Working Memory Performance.” Schizophrenia Bulletin 40, no. 4 (July 1, 2014): 914–24. https://doi.org/10.1093/schbul/sbt100.
 
-- Park, M. T., **Pipitone, J.**, Baer, L. H., Winterburn, J. L., Shah, Y.,
-  Chavez, S., Schira, M. M., Lobaugh, N. J., Lerch, J. P., Voineskos, A. N.,
-  and Chakravarty, M. M. (2014). Derivation of high-resolution MRI atlases of
-  the human cerebellum at 3T and segmentation using multiple automatically
-  generated templates. Neuroimage, 95:217–231.
+- Park, Min Tae M, Jon **Pipitone**, Lawrence H. Baer, Julie L. Winterburn, Yashvi Shah, Sofia Chavez, Mark M. Schira, et al. “Derivation of High-Resolution MRI Atlases of the Human Cerebellum at 3T and Segmentation Using Multiple Automatically Generated Templates.” NeuroImage 95 (July 15, 2014): 217–31. https://doi.org/10.1016/j.neuroimage.2014.03.037.
 
-- **Pipitone, J.**, Park, M. T., Winterburn, J., Lett, T. A., Lerch, J. P.,
-  Pruessner, J. C., Lepage, M., Voineskos, A. N., Chakravarty, M. M.,
-  Alzheimer's Disease Neuroimaging Initiative (2014). Multi-atlas segmentation
-  of the whole hippocampus and subfields using multiple automatically generated
-  templates.  Neuroimage, 101:494–512.
+- Friedel, Miriam, Matthijs C. van Eede, Jon **Pipitone**, M. Mallar Chakravarty, and Jason P. Lerch. “Pydpiper: A Flexible Toolkit for Constructing Novel Registration Pipelines.” Frontiers in Neuroinformatics 8 (July 30, 2014). https://doi.org/10.3389/fninf.2014.00067.
 
-- Raznahan, A., Shaw, P. W., Lerch, J. P., Clasen, L. S., Greenstein, D.,
-  Berman, R., **Pipitone, J.**, Chakravarty, M. M., and Giedd, J. N. (2014).
-  Longitudinal four-dimensional mapping of subcortical anatomy in human
-  development. Proceedings of the National Academy of Sciences,
-  111(4):1592–1597.
+- Felsky, D, P Szeszko, L Yu, W G Honer, P L De Jager, J A Schneider, A K Malhotra, et al. “The SORL1 Gene and Convergent Neural Risk for Alzheimer’s Disease across the Human Lifespan.” Molecular Psychiatry 19, no. 10 (October 29, 2014): 1125–32. https://doi.org/10.1038/mp.2013.142.
 
-- Wong, A. P., **Pipitone, J.**, Park, M. T., Dickie, E. W., Leonard, G.,
-  Perron, M., Pike, B. G., Richer, L., Veillette, S., Chakravarty, M. M., and
-  Others (2014). Estimating volumes of the pituitary gland from t1-weighted
-  magnetic-resonance images: Effects of age, puberty, testosterone, and
-  estradiol. Neuroimage, 94:216–221.
-  
-- Wheeler, A. L., Chakravarty, M. M., Lerch, J. P., **Pipitone, J.**,
-  Daskalakis, Z. J., Rajji, T. K., Mulsant, B. H., and Voineskos, A. N. (2013).
-  Disrupted prefrontal interhemispheric structural coupling in schizophrenia
-  related to working memory performance. Schizophrenia bulletin.
+- **Pipitone**, Jon, Min Tae M Park, Julie Winterburn, Tristram A. Lett, Jason P. Lerch, Jens C. Pruessner, Martin Lepage, Aristotle N. Voineskos, and M. Mallar Chakravarty. “Multi-Atlas Segmentation of the Whole Hippocampus and Subfields Using Multiple Automatically Generated Templates.” NeuroImage 101 (November 1, 2014): 494–512. https://doi.org/10.1016/j.neuroimage.2014.04.054.
 
-- Felsky, D., Szeszko, P., Yu, L., Honer, W. G., De Jager, P. L., Schneider, J.
-  A., Malhotra, A. K., Lencz, T., Ikuta, T., **Pipitone, J.**, Chakravarty, M.
-  M., Lobaugh, N. J., Mulsant, B. H., Pollock, B.G., Kennedy, J. L., Bennett,
-  B. A., and Voineskos, A. N. (2013). The SORL1 gene and convergent neural
-  risk for alzheimer’s disease across the human lifespan. Molecular psychiatry.
+- Raznahan, Armin, Phillip W Shaw, Jason P Lerch, Liv S Clasen, Deanna Greenstein, Rebecca Berman, Jon **Pipitone**, Mallar M Chakravarty, and Jay N Giedd. “Longitudinal Four-Dimensional Mapping of Subcortical Anatomy in Human Development.” Proceedings of the National Academy of Sciences 111, no. 4 (January 28, 2014): 1592–97. https://doi.org/10.1073/pnas.1316911111.
 
-- **Pipitone, J.** and Easterbrook, S. (2012). Assessing climate model software
-  quality: a defect density analysis of three models. Geoscientific Model
-  Development, 5(4):1009–1022.
+- **Pipitone**, J., and S. Easterbrook. “Assessing Climate Model Software Quality: A Defect Density Analysis of Three Models.” Geoscientific Model Development 5, no. 4 (August 9, 2012): 1009–22. https://doi.org/10.5194/gmd-5-1009-2012.
 
 ### Published Abstracts / Posters 
 - Riggs, L., Bouffet, E., Chakravarty, M., Laughlin, S., Laperriere, N., Liu,
