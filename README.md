@@ -21,29 +21,6 @@ jon@pipitone.ca
 
 - **Hon BSc. Computer Science (2000-2004), University of Toronto**
 
-## Interests
-
-- **Cycling**: Two weeks good, four wheels bad. Commute everywhere via bicycle
-  year-round. Taken several long bike trips (e.g. Toronto to Thunder Bay,
-Toronto to Montreal, Portland to San Francisco). Critical Mass participant.
-Self-taught bicycle maintenance. 
-- **Cooking & baking**. Curiously protective of my cast-iron pan. Mostly
-   vegetarian. Prefer to make things from scratch, e.g. bread, dumplings, ramen,
-pasta, tortillas. Organized a student-led vegan cafe during grad school. My
-family runs an "Iron Chef" competition every Christmas. 
-- **Meditation**: 20+ year eclectic interest in meditation and buddhism (Mahayana,
-  Vipassana). Regularly listen to Buddhist audio lectures. Ran daily morning
-meditation sessions during pre-clerkship. Audited classes at U of Toronto on
-the cognitive science behind mediation.
-- **Reading**: who reads books anymore? I try, but now often "experience" books as
-   audiobooks. Last book: The Goldfinch by Donna Tartt.
-- **Running**
-- **Yoga**
-- **Camping and hiking**
-- **Seinfeld**
-- **Physics & Mathematics**
-- **Programming**
-
 ## Clinical Electives
 
 1. **Psychiatry**, *Center for Addition and Mental Health, Toronto, Ontario* (2 weeks)  
@@ -245,19 +222,14 @@ See the following workshop websites:
 	Research in automated MRI image segmentation of the hippocampus, machine
 learning approaches to understanding hippocampus shape changes in Alzheimer's
 disease, classification of deficit/non-deficit schizophrenia from DWI white
-matter measures and tractography. Supported members of the lab and other CAMH
-researchers with analysis design and implementation.  Designed and ran research
-computing workshops and teachings for lab and CAMH researchers.  Responsible
-for multisite study data curation and automated image preprocessing and quality
-control.  Workstation and cluster administration. 
+matter measures and tractography.
 
 - **Research Intern**, 2011-2012   
   *Kimel Lab, Centre for Addiction and Mental Health, Toronto*
 
-	Supervised by Dr. Mallar Chakravarty in the Translational Imaging-Genetics
-Research lab. Conducted research on automated MRI image segmentation techniques
-for the hippocampus and subfields. Also responsible for setup and management of
-lab cluster computing resources. 
+	Research on automated MRI image segmentation techniques for the hippocampus
+and subfields. Also responsible for setup and management of lab cluster
+computing resources. 
 
 - **Course Developer**, 2012  
   *Mozilla, Toronto* 
@@ -274,9 +246,9 @@ by Blue Cross of Michigan.
 - **Software Developer**, 2004-2005  
   *Fidalia Networks, Mississauga*
 
-	Designed and developed a zero-configuration remote desktop application for
-remote assistance. Other responsibilies included configuring and managing
-company networking and wireless broadband radio infrastructure.  
+	Designed and developed an application for remote technical support. Other
+responsibilies included configuring and managing company networking and
+wireless broadband radio infrastructure.  
 
 - **Software Developer**, 2003-2004  
   *The Blueprint Initiative, Toronto*
@@ -285,27 +257,22 @@ company networking and wireless broadband radio infrastructure.
 interactions data derived from literature search.
 
 - **NSERC Summer Internship**, 2002 
-  *University of Victoria, Computer Science Deptartment, BC*
+  *Adoption-Centric Reverse Engineering Lab, University of Victoria, Victoria, BC*
 
-	Supervised by Dr. Hausi Müller in the Adoption-Centric Reverse research
-group.  Developed a web-based tool for software reverse engineering and
-conducted user studies. 
+	Developed a web-based tool for software reverse engineering and conducted
+user studies. 
 
+## Interests
 
-## Skills
-- **Science**: Image processing, Diffusion tensor modelling, Machine learning,
-  Artificial neural network models, High performance computing, Biomarker
-  development, Qualitative research methods, Software quality analysis. 
-
-- **Systems**: Linux administration (Debian, Centos), Windows, Virtualization
-  (ESXi, KVM, Docker, KVM), Provisioning (Ansible, Salt), Filesystems (ZFS,
-  ext, NFS), Clustering (SGE, PBS)
-
-- **Programming**: Python, R, Java, Matlab, Shell, Javascript, HTML/CSS, C/C++,
-  Perl, Visual Basic, Eclipse, XML, SVG, XSLT, Git, SVN, MySQL, SQLite, LaTeX,
-  Jekyll
-
-- **Neuroimaging**: FSL, MINC tools, Slicer, ANTS, FreeSurfer, UKFTractography
+- **Cycling**: Two wheels good, four wheels bad. Commute everywhere via bicycle year-round. Taken several long bike trips (e.g. Toronto to Thunder Bay, Toronto to Montreal, Portland to San Francisco). Critical Mass participant.  Self-taught bicycle maintenance. 
+- **Cooking & baking**. Curiously protective of my cast-iron pan. Mostly vegetarian. Prefer to make things from scratch, e.g. bread, dumplings, ramen, pasta, tortillas. Organized a student-led vegan cafe during grad school. My family runs an "Iron Chef" competition every Christmas. 
+- **Meditation**: 20+ year eclectic interest in meditation and buddhism (Mahayana, Vipassana). Regularly listen to Buddhist audio lectures. Ran daily morning meditation sessions during pre-clerkship. Audited classes at U of Toronto on the cognitive science behind mediation.
+- **Yoga**: 15+ years of Iyengar yoga. Mostly practice on my own.
+- **Reading**: Who reads books anymore? I try, but now often "experience" books as audiobooks. Last book: The Goldfinch by Donna Tartt.
+- **Running**: I used to be a competitive cross-country runner, and I still wish I were in some ways. Now I run a few times a week for the joy of it.  5-10km, trails > roads. 
+- **Camping & hiking**: Either as part of a bike trip, or on backcountry with canoes and boots. Favourite place: Killarney Provincial Park, ON. 
+- **Seinfeld**: I think this show plays on continuous loop in my head at all times. Big fan.
+- **Programming**: My past life. I try to stay up to date by reading about and tinkering with the latest in software development, and have a few side projects (<https://github.com/pipitone>).
 
 ---
 
