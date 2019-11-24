@@ -1,12 +1,14 @@
 # Jon Pipitone
 # Curriculum Vitae 
 <!--
-- [ ] Expand on workshops (don't rely on links)
-- [ ] Expand on people-y stuff
-- [ ] Cut down on researchy stuff
-- [ ] Add Interests
-- [ ] Add Clinical Electives
+- [x] Expand on workshops (don't rely on links)
+- [x] Expand on people-y stuff
+- [x] Cut down on researchy stuff
+- [x] Add Interests
+- [x] Add Clinical Electives
 - [ ] Add Professional Development
+- [x] Add farming "volunteer" work
+- [ ] Add environmentalism as an interest
 -->
 +1 (647) 639-1919  
 jon@pipitone.ca  
@@ -31,7 +33,7 @@ Psychosis Unit. Daily rounding, family discussions, and assessments.
 1. **Family Medicine**, *Northern Shores Medical Clinic, North Bay, Ontario* (2 weeks)  
 	Supervised by Dr. Renee Gauthier and other physicians in the group.
 Combination of hospitalist, and family clinic. 
-<!-- 2019-25-11 - 2019-03-10 -->
+<!-- 2019-02-25 - 2019-03-10 -->
 
 1. **Medical Oncology**, *Mount Sinai Hospital, Toronto, Ontario* (2 weeks)  
 	Supervised by Dr. Raymond Jang. Medical oncology, palliative care, and
@@ -51,71 +53,60 @@ of inpatient and outpatient assessments, consultations and follow up.
 	Supervised by Dr. Michael Fishman. Combination of hospitalist, outpatient clinic, and home visits. 
 <!-- 2019-11-04 - 2019-11-15 -->
   
+<!--
 1. **History of Psychiatry**, *Belleville General Hospital, Belleville, Ontario* (2 weeks, pending)  
 	Supervised by Dr. Colin Macpherson. 
+-->
+
 <!-- 2019-12-30 - 2020-01-12 -->
 
 ## Volunteering
-- **QMED Being A Medical Student**, Queen's University, 2018-09 - Present, *Facilitator*
+- **QMED Being A Medical Student**, Queen's University, 2018-09 - Present, *Facilitator*  
+	Elected facilitator for discussions led by upper year medical students for lower year medical students. Topics revolve around professionalism and ethics in medical school.
 
-	Student-led discussion groups for upper/lower year medical students. 
+- **QMED SpeakEasy**, Queen's University, 2018-05, *Organiser/Facilitator*  
+	Co-organized an event for medical students to discuss difficult topics (e.g. religion in medicine, MAiD, mental illness amongst physicians). I facilitated a large group session on ground rules, active listening, and conflict resolution.
 
-- **QMED SpeakEasy**, Queen's University, 2018-05, *Organiser/Facilitator*
+- **QMED Mindfulness**, Queen's University, 2016-09 - 2018-05, *Instructor*  
+	Organized and led daily morning meditation sessions and discussions. 
 
-	Class event to foster dialog on difficult topics.
+- **Pre-clerkship Clinical Skills**, Queen's University, 2017 - 2018. *Instructor*  
+	Taught weekly pre-clerk clinical skills sessions. 
 
-- **QMED Mindfulness**, Queen's University, 2016-09 - 2018-05, *Instructor*
+- **QMED Class Professionalism Rep**, Queen's University, 2017-01 - Present. *Elected representative*   
+	Acted as a neutral advocate for my classmates professionalism concerns. 
 
-	Organized and led daily morning mindfulness sessions and co-learning group.
+- **Circles Kingston**, Loving Spoonful, Kingston, 2018-07 - 2018-09, *Kitchen assistant*  
+	Poverty reduction program providing a monthly networking meetup where participants cook and share a meal together.
 
-- **Pre-clerkship Clinical Skills**, Queen's University, 2017 - 2018. *Instructor*
+- **Software Carpentry**, 2007-2017, *Instructor/sysadmin*  
+	Volunteer-run research computing skills workshops for scientists. I participated in teaching, workshop content development and providing technical support. 
 
-	Weekly pre-clerk clinical skills teaching sessions. 
-
-- **QMED Class Professionalism Rep**, Queen's University, 2017-01 - Present. *Elected representative* 
-
-	Neutral advocate available to hear and act on behalf of student professionalism concerns.
-
-- **Circles Kingston**, Loving Spoonful, Kingston, 2018-07 - 2018-09, *Kitchen assistant*
-
-	Poverty-to-self-sufficiency networking group meeting monthly to cook and share a meal together. 
-
-- **Software Carpentry**, 2007-2017, *Instructor/sysadmin* 
-
-	Research computing skills workshops for scientists.
-
-- **CAMH Schizophrenia Volleyball Program**, CAMH, Toronto, 2012-2016. *Coordinator/Participant*
-
-	Weekly friendly client and student/staff volleyball games. 
+- **CAMH Schizophrenia Volleyball Program**, CAMH, Toronto, 2012-2016. *Coordinator/Participant*  
+	Weekly non-competitive afternoon volleyball games attended by CAMH clients,
+staff and students providing a chance for socializing and behavioural activation. 
 
 - **Toronto Sustainable Food Co-operative**, University of Toronto, 2011. *Founder*
+	Co-founded a workers cooperative that ran the Harvest Moon campus cafe, a student-run organization dedicated to serving sustainable food with fair employment. 
 
-	Founded a workers cooperative that went on to run the Harvest Moon campus cafe. 
+- **Hot Yam!**, *2007-2011*. University of Toronto,  *Coordinator*  
+	All-volunteer student-run campus kitchen providing up to 250 low-cost,
+sustainably-sourced vegan meals a week. I organized volunteers, menus and governance. Press! <https://nowtoronto.com/food-and-drink/food/hot-damn-hot-yam/>
 
-- **Hot Yam!**, *2007-2011*. University of Toronto,  *Coordinator*
+- **Canadian Civil Liberties Association**, Toronto, Ontario, 2010. *Observer*  
+	Acted as a neutral observer of interactions between police and citizens at
+the protests during the 2010 G20 meeting in Toronto. 
 
-	Student-run campus kitchen providing low-cost vegan meals. Press! <https://nowtoronto.com/food-and-drink/food/hot-damn-hot-yam/>
-
-- **Canadian Civil Liberties Association**, Toronto, 2010. *Observer*
-
-	Observer at the protests during the 2010 G20 meeting.  
-
-
+- **Various small-scale organic farms**, Ontario and Australia, 2004-2008, *Farm hand, Intern*  
+	Participated in all aspects of small-scale organic vegetable, livestock, orcharding and market sales in several farms in south western Ontario and in South Australia. 
 
 ## Teaching
-- **QMED Computes**, Queen's University. 2017-09 - 2018-05. *Instructor*
-
+- **QMED Computes**, Queen's University. 2017-09 - 2018-05. *Instructor*  
 	Designed and ran monthly research computing skills workshops for Queen's
 medical students. See <https://pipitone.github.io/qmed-computes>
     
-- **Scientific Computing Fundamentals for CAMH Researchers workshop series**, CAMH, *Organizer/Instructor*
-
-	Started and organized several multi-day workshop series taught by CAMH
-researchers *for* CAMH researchers on relevant computing and research skills.
-See the following workshop websites:
-    - November 2015, CAMH. <http://camh-scwg.github.io/lrn2compute>
-    - August 2015, CAMH. <http://pipitone.github.io/camh-computing-skills-august-2015>
-    - March 2015, CAMH. <http://pipitone.github.io/computing-skills>
+- **Scientific Computing Fundamentals for CAMH Researchers workshop series**, CAMH, *Organizer/Instructor*  
+	Organized several multi-day workshop series taught by CAMH researchers *for* CAMH researchers on relevant computing and research skills. We covered topics such as advanced spreadsheet use, data cleaning, statistical analysis, basic programming skills. For example, see <http://camh-scwg.github.io/lrn2compute>
 
 - **Climate Change: Software, Science, and Society (PMU199)**. University of Toronto, 2011-01 - 2011-05,
   *Teaching Assistant*
@@ -179,6 +170,7 @@ See the following workshop websites:
 
 1. **Pipitone**, J., and S. Easterbrook. “Assessing Climate Model Software Quality: A Defect Density Analysis of Three Models.” Geoscientific Model Development 5, no. 4 (August 9, 2012): 1009–22. <https://doi.org/10.5194/gmd-5-1009-2012>.
 
+<!--
 ### Published Abstracts / Posters 
 1. Riggs, L., Bouffet, E., Chakravarty, M., Laughlin, S., Laperriere, N., Liu,
   F., Skocic, J., **Pipitone, J.**, Strother, D., Hukin, J., Fryer, C.,
@@ -214,6 +206,7 @@ See the following workshop websites:
 1. **Pipitone, J.**, Aranda, J., and Cortés, V. Aim for the eagle: Making the
   best use of our software research skills to fight climate change. In proceedings 
   of the 2010 Second International Workshop on Software Research and Climate Change.
+-->
 
 ## Work
 - **Research Methods Specialist**, 2012-2016  
@@ -234,20 +227,20 @@ computing resources.
 - **Course Developer**, 2012  
   *Mozilla, Toronto* 
 
-	Developed course materials for the Python programmming lessons of the
+	Developed course materials for the Python programming lessons of the
 Software Carpentry project <http://software-carpentry.org>.  
 
-- **Software Developer**, 2005-2007  
+- **Software Developer**, 2006-2007  
   *The Jonah Group, Toronto*
 
 	Developed a "data warehouse" database to allow efficient claims reporting
 by Blue Cross of Michigan. 
 
-- **Software Developer**, 2004-2005  
+- **Software Developer**, 2004-2006  
   *Fidalia Networks, Mississauga*
 
 	Designed and developed an application for remote technical support. Other
-responsibilies included configuring and managing company networking and
+responsibilities included configuring and managing company networking and
 wireless broadband radio infrastructure.  
 
 - **Software Developer**, 2003-2004  
@@ -266,7 +259,7 @@ user studies.
 
 - **Cycling**: Two wheels good, four wheels bad. Commute everywhere via bicycle year-round. Taken several long bike trips (e.g. Toronto to Thunder Bay, Toronto to Montreal, Portland to San Francisco). Critical Mass participant.  Self-taught bicycle maintenance. 
 - **Cooking & baking**. Curiously protective of my cast-iron pan. Mostly vegetarian. Prefer to make things from scratch, e.g. bread, dumplings, ramen, pasta, tortillas. Organized a student-led vegan cafe during grad school. My family runs an "Iron Chef" competition every Christmas. 
-- **Meditation**: 20+ year eclectic interest in meditation and buddhism (Mahayana, Vipassana). Regularly listen to Buddhist audio lectures. Ran daily morning meditation sessions during pre-clerkship. Audited classes at U of Toronto on the cognitive science behind mediation.
+- **Meditation**: 20+ year eclectic interest in meditation and Buddhism (Mahayana, Vipassana). Regularly listen to Buddhist audio lectures. Ran daily morning meditation sessions during pre-clerkship. Audited classes at U of Toronto on the cognitive science behind mediation.
 - **Yoga**: 15+ years of Iyengar yoga. Mostly practice on my own.
 - **Reading**: Who reads books anymore? I try, but now often "experience" books as audiobooks. Last book: The Goldfinch by Donna Tartt.
 - **Running**: I used to be a competitive cross-country runner, and I still wish I were in some ways. Now I run a few times a week for the joy of it.  5-10km, trails > roads. 
