@@ -1,15 +1,15 @@
 # Jon Pipitone
 # Curriculum Vitae 
 <!--
-- [ ] Add Professional Development
-- [ ] Add Hill Times op-ed
 - [ ] Add Projects? 
 -->
 jon@pipitone.ca  
 <http://github.com/pipitone>  
 
 ## Education
-- **MD Candidate (2016-2020), Queen's University School of Medicine**
+- **Psychiatry Residency (2020-), Queen's University, Kingston, Ontario, Canada**
+ 
+- **MD (2016-2020), Queen's University, Kingston, Ontario, Canada**
 
 - **MSc. Computer Science (2007-2010), University of Toronto**  
     Thesis: "On software quality in climate modelling"
@@ -46,15 +46,12 @@ of inpatient and outpatient assessments, consultations and follow up.
 	Supervised by Dr. Michael Fishman. Combination of hospitalist, outpatient clinic, and home visits. 
 <!-- 2019-11-04 - 2019-11-15 -->
   
-<!--
-1. **History of Psychiatry**, *Belleville General Hospital, Belleville, Ontario* (2 weeks, pending)  
-	Supervised by Dr. Colin Macpherson. 
--->
-
+1. **Research**, *Queen's University, Kingston, Ontario* (2 weeks)  
+	Supervised by Dr. Jackie Duffin. 
 <!-- 2019-12-30 - 2020-01-12 -->
 
 ## Volunteering
-- **QMED Being A Medical Student**, Queen's University, 2018-09 - Present, *Facilitator*  
+- **QMED Being A Medical Student**, Queen's University, 2018-09 - 2020-01, *Facilitator*  
 	Elected facilitator for discussions led by upper year medical students for lower year medical students. Topics revolve around professionalism and ethics in medical school.
 
 - **QMED SpeakEasy**, Queen's University, 2018-05, *Organiser/Facilitator*  
@@ -66,7 +63,7 @@ of inpatient and outpatient assessments, consultations and follow up.
 - **Pre-clerkship Clinical Skills**, Queen's University, 2017 - 2018. *Instructor*  
 	Taught weekly pre-clerk clinical skills sessions. 
 
-- **QMED Class Professionalism Rep**, Queen's University, 2017-01 - Present. *Elected representative*   
+- **QMED Class Professionalism Rep**, Queen's University, 2017-01 - 2020-03. *Elected representative*   
 	Acted as a neutral advocate for my classmates professionalism concerns. 
 
 - **Circles Kingston**, Loving Spoonful, Kingston, 2018-07 - 2018-09, *Kitchen assistant*  
@@ -163,7 +160,6 @@ medical students. See <https://pipitone.github.io/qmed-computes>
 
 1. **Pipitone**, J., and S. Easterbrook. “Assessing Climate Model Software Quality: A Defect Density Analysis of Three Models.” Geoscientific Model Development 5, no. 4 (August 9, 2012): 1009–22. <https://doi.org/10.5194/gmd-5-1009-2012>.
 
-<!--
 ### Published Abstracts / Posters 
 1. Riggs, L., Bouffet, E., Chakravarty, M., Laughlin, S., Laperriere, N., Liu,
   F., Skocic, J., **Pipitone, J.**, Strother, D., Hukin, J., Fryer, C.,
@@ -199,7 +195,15 @@ medical students. See <https://pipitone.github.io/qmed-computes>
 1. **Pipitone, J.**, Aranda, J., and Cortés, V. Aim for the eagle: Making the
   best use of our software research skills to fight climate change. In proceedings 
   of the 2010 Second International Workshop on Software Research and Climate Change.
--->
+
+## Op-Eds
+1. Duffin, J. and Pipitone, J. (2021). What’s up (or down) with drug shortages?. The Hill Times. 
+   https://www.hilltimes.com/2021/02/08/281772/281772
+
+
+1. Duffin, J. and Pipitone, J. (2020). Medicine shortages in light of COVID-19:
+   a wake-up call for drug security. The Hill Times. 
+   https://www.hilltimes.com/2020/04/27/245009/245009
 
 ## Work
 - **Research Methods Specialist**, 2012-2016  
@@ -226,8 +230,7 @@ Software Carpentry project <http://software-carpentry.org>.
 - **Software Developer**, 2006-2007  
   *The Jonah Group, Toronto*
 
-	Developed a "data warehouse" database to allow efficient claims reporting
-by Blue Cross of Michigan. 
+	Developed a data warehouse to allow efficient claims reporting by Blue Cross of Michigan. 
 
 - **Software Developer**, 2004-2006  
   *Fidalia Networks, Mississauga*
@@ -248,21 +251,9 @@ interactions data derived from literature search.
 	Developed a web-based tool for software reverse engineering and conducted
 user studies. 
 
-## Interests
-
-- **Cycling**: Two wheels good, four wheels bad. Commute everywhere via bicycle year-round. Taken several long bike trips (e.g. Toronto to Thunder Bay, Toronto to Montreal, Portland to San Francisco). Critical Mass participant.  Self-taught bicycle maintenance. 
-- **Cooking & baking**. Curiously protective of my cast-iron pan. Mostly vegetarian. Prefer to make things from scratch, e.g. bread, dumplings, ramen, pasta, tortillas. Organized a student-led vegan cafe during grad school. My family runs an "Iron Chef" competition every Christmas. 
-- **Meditation**: 20+ year eclectic interest in meditation and Buddhism (Mahayana, Vipassana). Regularly listen to Buddhist audio lectures. Ran daily morning meditation sessions during pre-clerkship. Audited classes at U of Toronto on the cognitive science behind mediation.
-- **Yoga**: 15+ years of Iyengar yoga. Mostly practice on my own.
-- **Reading**: Who reads books anymore? I try, but now often "experience" books as audiobooks. Last book: The Goldfinch by Donna Tartt.
-- **Running**: I used to be a competitive cross-country runner, and I still wish I were in some ways. Now I run a few times a week for the joy of it.  5-10km, trails > roads. 
-- **Camping & hiking**: Either as part of a bike trip, or on backcountry with canoes and boots. Favourite place: Killarney Provincial Park, ON. 
-- **Seinfeld**: I think this show plays on continuous loop in my head at all times. Big fan.
-- **Programming**: My past life. I try to stay up to date by reading about and tinkering with the latest in software development, and have a few side projects (<https://github.com/pipitone>).
-
 ---
 
 > Available at: <http://github.com/pipitone/cv>  
-> Last updated: Sat Nov 16 20:04:52 EST 2019
+> Last updated: Tue 23 Mar 2021 08:43:53 PM EDT
 
 <!-- vim: set ts=4 sw=4 -->
