@@ -16,109 +16,17 @@ jon@pipitone.ca
 
 - **Hon BSc. Computer Science (2000-2004), University of Toronto**
 
-## Clinical Electives
+<!-- 
+## Professional Certifications
+ACLS
+NVCI
+MCCQE1
 
-1. **Psychiatry**, *Center for Addition and Mental Health, Toronto, Ontario* (2 weeks)  
-	Supervised by Dr. Aristotle Voineskos and Dr. Nicholas Neufeld in the Early
-Psychosis Unit. Daily rounding, family discussions, and assessments.
-<!-- 2019-02-11 - 2019-02-24 -->
+## Professional Affiliations
+College of Physicians and Surgeons of Ontario, 2020- 
+-->
 
-1. **Family Medicine**, *Northern Shores Medical Clinic, North Bay, Ontario* (2 weeks)  
-	Supervised by Dr. Renee Gauthier and other physicians in the group.
-Combination of hospitalist, and family clinic. 
-<!-- 2019-02-25 - 2019-03-10 -->
-
-1. **Medical Oncology**, *Mount Sinai Hospital, Toronto, Ontario* (2 weeks)  
-	Supervised by Dr. Raymond Jang. Medical oncology, palliative care, and
-hematology clinic. 
-<!-- 2019-03-11 - 2019-03-24 -->
-
-1. **Psychiatry**, *Belleville General Hospital, Belleville, Ontario* (4 weeks)  
-	Supervised by Dr. Colin Macpherson and Dr. Antonina Stakheiko. Combination
-of inpatient and outpatient assessments, consultations and follow up. 
-<!-- 2019-09-23 - 2019-10-20 -->
-
-1. **Neurology**, *Queen's University, Kingston, Ontario* (2 weeks)   
-	Supervised by Dr. Sean Taylor and Dr. Moogeh Baharnoori. Inpatient and consultations.
-<!-- 2019-10-21 - 2019-11-03 -->
-
-1. **Family Medicine**, *Arnprior Family Health Team, Arnprior, Ontario* (2 weeks)  
-	Supervised by Dr. Michael Fishman. Combination of hospitalist, outpatient clinic, and home visits. 
-<!-- 2019-11-04 - 2019-11-15 -->
-  
-1. **Research**, *Queen's University, Kingston, Ontario* (2 weeks)  
-	Supervised by Dr. Jackie Duffin. 
-<!-- 2019-12-30 - 2020-01-12 -->
-
-## Volunteering
-- **QMED Being A Medical Student**, Queen's University, 2018-09 - 2020-01, *Facilitator*  
-	Elected facilitator for discussions led by upper year medical students for lower year medical students. Topics revolve around professionalism and ethics in medical school.
-
-- **QMED SpeakEasy**, Queen's University, 2018-05, *Organiser/Facilitator*  
-	Co-organized an event for medical students to discuss difficult topics (e.g. religion in medicine, MAiD, mental illness amongst physicians). I facilitated a large group session on ground rules, active listening, and conflict resolution.
-
-- **QMED Mindfulness**, Queen's University, 2016-09 - 2018-05, *Instructor*  
-	Organized and led daily morning meditation sessions and discussions. 
-
-- **Pre-clerkship Clinical Skills**, Queen's University, 2017 - 2018. *Instructor*  
-	Taught weekly pre-clerk clinical skills sessions. 
-
-- **QMED Class Professionalism Rep**, Queen's University, 2017-01 - 2020-03. *Elected representative*   
-	Acted as a neutral advocate for my classmates professionalism concerns. 
-
-- **Circles Kingston**, Loving Spoonful, Kingston, 2018-07 - 2018-09, *Kitchen assistant*  
-	Poverty reduction program providing a monthly networking meetup where participants cook and share a meal together.
-
-- **Software Carpentry**, 2007-2017, *Instructor/sysadmin*  
-	Volunteer-run research computing skills workshops for scientists. I participated in teaching, workshop content development and providing technical support. 
-
-- **CAMH Schizophrenia Volleyball Program**, CAMH, Toronto, 2012-2016. *Coordinator/Participant*  
-	Weekly non-competitive afternoon volleyball games attended by CAMH clients,
-staff and students providing a chance for socializing and behavioural activation. 
-
-- **Toronto Sustainable Food Co-operative**, University of Toronto, 2011. *Founder*
-	Co-founded a workers cooperative that ran the Harvest Moon campus cafe, a student-run organization dedicated to serving sustainable food with fair employment. 
-
-- **Hot Yam!**, *2007-2011*. University of Toronto,  *Coordinator*  
-	All-volunteer student-run campus kitchen providing up to 250 low-cost,
-sustainably-sourced vegan meals a week. I organized volunteers, menus and governance. Press! <https://nowtoronto.com/food-and-drink/food/hot-damn-hot-yam/>
-
-- **Canadian Civil Liberties Association**, Toronto, Ontario, 2010. *Observer*  
-	Acted as a neutral observer of interactions between police and citizens at
-the protests during the 2010 G20 meeting in Toronto. 
-
-- **Various small-scale organic farms**, Ontario and Australia, 2004-2008, *Farm hand, Intern*  
-	Participated in all aspects of small-scale organic vegetable, livestock, orcharding and market sales in several farms in south western Ontario and in South Australia. 
-
-## Teaching
-- **QMED Computes**, Queen's University. 2017-09 - 2018-05. *Instructor*  
-	Designed and ran monthly research computing skills workshops for Queen's
-medical students. See <https://pipitone.github.io/qmed-computes>
-    
-- **Scientific Computing Fundamentals for CAMH Researchers workshop series**, CAMH, *Organizer/Instructor*  
-	Organized several multi-day workshop series taught by CAMH researchers *for* CAMH researchers on relevant computing and research skills. We covered topics such as advanced spreadsheet use, data cleaning, statistical analysis, basic programming skills. For example, see <http://camh-scwg.github.io/lrn2compute>
-
-- **Climate Change: Software, Science, and Society (PMU199)**. University of Toronto, 2011-01 - 2011-05,
-  *Teaching Assistant*
-
-- **Software Carpentry (Python)**, University of Toronto, 2011-01 - 2011-05, *Head Teaching Assistant*
-
-- **Software Carpentry (Python)**, University of Toronto, 2010-09 - 2010-12, *Head Teaching Assistant*
-
-- **Software Carpentry**, University of Toronto, 2010-05 - 2010-07, *Course design*
-
-- **Software Carpentry (MATLAB)**, University of Toronto, 2010-01 - 2010-05, *Instructor*
-
-- **Software Carpentry (MATLAB/Python)**, University of Toronto, 2009-09 - 2009-12, *Teaching Assistant*
-
-- **Introduction to Computer Science (CSCA48)**, University of Toronto, 2009-05 - 2009-08, *Teaching Assistant*
-
-- **Software Design (CSC207)**, University of Toronto, 2009-01 - 2009-05. *Teaching Assistant*
-
-- **Introduction to Computer Programming (CSC148)**, University of Toronto, 2008-01 - 2008-05. *Teaching Assistant*
-
-- **Introduction to Computer Programming (CSC108)**, University of Toronto, 2007-09 - 2007-12. *Teaching Assistant*
-
+ 
 ## Peer-Reviewed Publications 
 <!-- https://www.refme.com/us/citation-generator/chicago/ -->
 
@@ -160,7 +68,7 @@ medical students. See <https://pipitone.github.io/qmed-computes>
 
 1. **Pipitone**, J., and S. Easterbrook. “Assessing Climate Model Software Quality: A Defect Density Analysis of Three Models.” Geoscientific Model Development 5, no. 4 (August 9, 2012): 1009–22. <https://doi.org/10.5194/gmd-5-1009-2012>.
 
-### Published Abstracts / Posters 
+## Published Abstracts / Posters 
 1. Riggs, L., Bouffet, E., Chakravarty, M., Laughlin, S., Laperriere, N., Liu,
   F., Skocic, J., **Pipitone, J.**, Strother, D., Hukin, J., Fryer, C.,
   McConnell, D.,  and Mabbott, D. (2014).  Hippocampal volumes decrease over
@@ -197,11 +105,11 @@ medical students. See <https://pipitone.github.io/qmed-computes>
   of the 2010 Second International Workshop on Software Research and Climate Change.
 
 ## Op-Eds
-1. Duffin, J. and Pipitone, J. (2021). What’s up (or down) with drug shortages?. The Hill Times. 
+1. Duffin, J. and **Pipitone, J.** (2021). What’s up (or down) with drug shortages?. The Hill Times. 
    https://www.hilltimes.com/2021/02/08/281772/281772
 
 
-1. Duffin, J. and Pipitone, J. (2020). Medicine shortages in light of COVID-19:
+1. Duffin, J. and **Pipitone, J.** (2020). Medicine shortages in light of COVID-19:
    a wake-up call for drug security. The Hill Times. 
    https://www.hilltimes.com/2020/04/27/245009/245009
 
@@ -250,6 +158,115 @@ interactions data derived from literature search.
 
 	Developed a web-based tool for software reverse engineering and conducted
 user studies. 
+
+## Teaching
+- **QMED Computes**, Queen's University. 2017-09 - 2018-05. *Instructor*  
+	Designed and ran monthly research computing skills workshops for Queen's
+medical students. See <https://pipitone.github.io/qmed-computes>
+    
+- **Scientific Computing Fundamentals for CAMH Researchers workshop series**, CAMH, *Organizer/Instructor*  
+	Organized several multi-day workshop series taught by CAMH researchers *for* CAMH researchers on relevant computing and research skills. We covered topics such as advanced spreadsheet use, data cleaning, statistical analysis, basic programming skills. For example, see <http://camh-scwg.github.io/lrn2compute>
+
+- **Climate Change: Software, Science, and Society (PMU199)**. University of Toronto, 2011-01 - 2011-05,
+  *Teaching Assistant*
+
+- **Software Carpentry (Python)**, University of Toronto, 2011-01 - 2011-05, *Head Teaching Assistant*
+
+- **Software Carpentry (Python)**, University of Toronto, 2010-09 - 2010-12, *Head Teaching Assistant*
+
+- **Software Carpentry**, University of Toronto, 2010-05 - 2010-07, *Course design*
+
+- **Software Carpentry (MATLAB)**, University of Toronto, 2010-01 - 2010-05, *Instructor*
+
+- **Software Carpentry (MATLAB/Python)**, University of Toronto, 2009-09 - 2009-12, *Teaching Assistant*
+
+- **Introduction to Computer Science (CSCA48)**, University of Toronto, 2009-05 - 2009-08, *Teaching Assistant*
+
+- **Software Design (CSC207)**, University of Toronto, 2009-01 - 2009-05. *Teaching Assistant*
+
+- **Introduction to Computer Programming (CSC148)**, University of Toronto, 2008-01 - 2008-05. *Teaching Assistant*
+
+- **Introduction to Computer Programming (CSC108)**, University of Toronto, 2007-09 - 2007-12. *Teaching Assistant*
+ 
+## Clinical Electives
+
+1. **Psychiatry**, *Center for Addition and Mental Health, Toronto, Ontario* (2 weeks)  
+	Supervised by Dr. Aristotle Voineskos and Dr. Nicholas Neufeld in the Early
+Psychosis Unit. Daily rounding, family discussions, and assessments.
+<!-- 2019-02-11 - 2019-02-24 -->
+
+1. **Family Medicine**, *Northern Shores Medical Clinic, North Bay, Ontario* (2 weeks)  
+	Supervised by Dr. Renee Gauthier and other physicians in the group.
+Combination of hospitalist, and family clinic. 
+<!-- 2019-02-25 - 2019-03-10 -->
+
+1. **Medical Oncology**, *Mount Sinai Hospital, Toronto, Ontario* (2 weeks)  
+	Supervised by Dr. Raymond Jang. Medical oncology, palliative care, and
+hematology clinic. 
+<!-- 2019-03-11 - 2019-03-24 -->
+
+1. **Psychiatry**, *Belleville General Hospital, Belleville, Ontario* (4 weeks)  
+	Supervised by Dr. Colin Macpherson and Dr. Antonina Stakheiko. Combination
+of inpatient and outpatient assessments, consultations and follow up. 
+<!-- 2019-09-23 - 2019-10-20 -->
+
+1. **Neurology**, *Queen's University, Kingston, Ontario* (2 weeks)   
+	Supervised by Dr. Sean Taylor and Dr. Moogeh Baharnoori. Inpatient and consultations.
+<!-- 2019-10-21 - 2019-11-03 -->
+
+1. **Family Medicine**, *Arnprior Family Health Team, Arnprior, Ontario* (2 weeks)  
+	Supervised by Dr. Michael Fishman. Combination of hospitalist, outpatient clinic, and home visits. 
+<!-- 2019-11-04 - 2019-11-15 -->
+  
+1. **Research**, *Queen's University, Kingston, Ontario* (2 weeks)  
+	Supervised by Dr. Jackie Duffin. 
+<!-- 2019-12-30 - 2020-01-12 -->
+
+## Volunteering
+- **QMED Being A Medical Student**, Queen's University, 2018-09 - 2020-01, *Facilitator*  
+    Elected facilitator for discussions led by upper year medical students for
+    lower year medical students. Topics revolve around professionalism and
+    ethics in medical school.
+
+- **QMED SpeakEasy**, Queen's University, 2018-05, *Organiser/Facilitator*  
+    Co-organized an event for medical students to discuss difficult topics (e.g.
+    religion in medicine, MAiD, mental illness amongst physicians). I
+    facilitated a large group session on ground rules, active listening, and
+    conflict resolution.
+
+- **QMED Mindfulness**, Queen's University, 2016-09 - 2018-05, *Instructor*  
+	Organized and led daily morning meditation sessions and discussions. 
+
+- **Pre-clerkship Clinical Skills**, Queen's University, 2017 - 2018. *Instructor*  
+	Taught weekly pre-clerk clinical skills sessions. 
+
+- **QMED Class Professionalism Rep**, Queen's University, 2017-01 - 2020-03. *Elected representative*   
+	Acted as a neutral advocate for my classmates professionalism concerns. 
+
+- **Circles Kingston**, Loving Spoonful, Kingston, 2018-07 - 2018-09, *Kitchen assistant*  
+	Poverty reduction program providing a monthly networking meetup where participants cook and share a meal together.
+
+- **Software Carpentry**, 2007-2017, *Instructor/sysadmin*  
+	Volunteer-run research computing skills workshops for scientists. I participated in teaching, workshop content development and providing technical support. 
+
+- **CAMH Schizophrenia Volleyball Program**, CAMH, Toronto, 2012-2016. *Coordinator/Participant*  
+	Weekly non-competitive afternoon volleyball games attended by CAMH clients,
+staff and students providing a chance for socializing and behavioural activation. 
+
+- **Toronto Sustainable Food Co-operative**, University of Toronto, 2011. *Founder*
+	Co-founded a workers cooperative that ran the Harvest Moon campus cafe, a student-run organization dedicated to serving sustainable food with fair employment. 
+
+- **Hot Yam!**, *2007-2011*. University of Toronto,  *Coordinator*  
+	All-volunteer student-run campus kitchen providing up to 250 low-cost,
+sustainably-sourced vegan meals a week. I organized volunteers, menus and governance. Press! <https://nowtoronto.com/food-and-drink/food/hot-damn-hot-yam/>
+
+- **Canadian Civil Liberties Association**, Toronto, Ontario, 2010. *Observer*  
+	Acted as a neutral observer of interactions between police and citizens at
+the protests during the 2010 G20 meeting in Toronto. 
+
+- **Various small-scale organic farms**, Ontario and Australia, 2004-2008, *Farm hand, Intern*  
+	Participated in all aspects of small-scale organic vegetable, livestock, orcharding and market sales in several farms in south western Ontario and in South Australia. 
+
 
 ---
 
